@@ -1,3 +1,3 @@
-# kaldi
-voice command
-saya ingin mencoba voice command
+#TA1718012: voice command
+
+Voice command untuk hololens
