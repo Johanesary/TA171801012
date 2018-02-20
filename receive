@@ -1,0 +1,56 @@
+using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
+using System;
+using System.Text;
+
+class Receive
+{
+    public static void Main()
+    {
+		//ConnectionFactory factory = new ConnectionFactory();
+		//factory.UserName = "belva";
+		//factory.Password = "hololens";
+		//factory.VirtualHost = "/";
+		//factory.HostName = "192.168.88.21";
+		
+        var factory = new ConnectionFactory() { HostName = "localhost" };
+        using(var connection = factory.CreateConnection())
+        using(var channel = connection.CreateModel())
+        {
+            channel.QueueDeclare(queue: "hello", durable: false, exclusive: false, autoDelete: false, arguments: null);
+
+            var consumer = new EventingBasicConsumer(channel);
+            consumer.Received += (model, ea) =>
+            {
+                var body = ea.Body;
+                var message = Encoding.UTF8.GetString(body);
+				int l = message.Length-20;
+				//Console.WriteLine(message.Length);
+				Console.WriteLine(message.Substring(15,l));
+				/*
+				if (message.Length > 15)
+				{
+					int l = message.Length-5;
+					string m = message;
+					string a = m.Substring(15,l);
+					Console.WriteLine(" [x] Received {0}", a);
+				}
+				else
+				{
+					Console.WriteLine(" [x] Received {0}", message);
+				} */
+                //System.IO.File.WriteAllBytes(@"C:\Users\Jo\Desktop\tes.wav", body);
+
+           };
+            channel.BasicConsume(queue: "hello", autoAck: true, consumer: consumer);
+
+			//string[] lines = { "First line", "Second line", "Third line" };
+			// WriteAllLines creates a file, writes a collection of strings to the file,
+			// and then closes the file.  You do NOT need to call Flush() or Close().
+
+            
+			Console.WriteLine(" Press [enter] to exit.");
+            Console.ReadLine();
+        }
+    }
+}
