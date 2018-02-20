@@ -1,0 +1,496 @@
+HVite -A -D -T 1 -l * -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I words.mlf -S train.scp dict monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 31 physical / 31 logical HMMs
+Label file will be used to align each file
+Aligning File: ../train/mfcc/sample1.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HALO HALO HAI HAI HAI HALO TITAN TITAN TITAN SENT-END  ==  [895 frames] -55.7177 [Ac=-49867.3 LM=0.0] (Act=9.9)
+Aligning File: ../train/mfcc/sample2.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HAI HAI HAI HAI HALO HALO HALO HALO TITAN SENT-END  ==  [840 frames] -56.8964 [Ac=-47793.0 LM=0.0] (Act=10.7)
+Aligning File: ../train/mfcc/sample3.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TITAN HAI TITAN HALO TITAN TITAN HALO TITAN TITAN SENT-END  ==  [903 frames] -55.8035 [Ac=-50390.6 LM=0.0] (Act=7.3)
+Aligning File: ../train/mfcc/sample4.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HAI HAI TITAN HAI TITAN HALO TITAN TITAN HALO SENT-END  ==  [822 frames] -55.7000 [Ac=-45785.4 LM=0.0] (Act=9.5)
+Aligning File: ../train/mfcc/sample5.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END NYALAKAN NYALAKAN MATIKAN NYALAKAN MATIKAN NYALAKAN MATIKAN MATIKAN NYALAKAN SENT-END  ==  [1029 frames] -57.2399 [Ac=-58899.8 LM=0.0] (Act=7.5)
+Aligning File: ../train/mfcc/sample6.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MATIKAN MATIKAN NYALAKAN NYALAKAN MATIKAN MATIKAN NYALAKAN NYALAKAN TITAN SENT-END  ==  [964 frames] -57.8102 [Ac=-55729.0 LM=0.0] (Act=7.4)
+Aligning File: ../train/mfcc/sample7.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MATIKAN HIDUPKAN HIDUPKAN TURUNKAN HIDUPKAN TURUNKAN TURUNKAN TURUNKAN HIDUPKAN SENT-END  ==  [1099 frames] -56.2684 [Ac=-61838.9 LM=0.0] (Act=6.6)
+Aligning File: ../train/mfcc/sample8.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HIDUPKAN TURUNKAN NAIKKAN NAIKKAN TURUNKAN HIDUPKAN TURUNKAN HIDUPKAN TURUNKAN SENT-END  ==  [967 frames] -59.0585 [Ac=-57109.6 LM=0.0] (Act=7.2)
+Aligning File: ../train/mfcc/sample9.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TURUNKAN TURUNKAN TURUNKAN HIDUPKAN TURUNKAN HIDUPKAN HIDUPKAN HIDUPKAN HIDUPKAN SENT-END  ==  [959 frames] -58.6612 [Ac=-56256.1 LM=0.0] (Act=6.7)
+Aligning File: ../train/mfcc/sample10.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TURUNKAN TURUNKAN TURUNKAN NAIKKAN NAIKKAN NAIKKAN TURUNKAN NAIKKAN NAIKKAN SENT-END  ==  [913 frames] -59.4067 [Ac=-54238.3 LM=0.0] (Act=8.1)
+Aligning File: ../train/mfcc/sample11.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END NAIKKAN NAIKKAN TURUNKAN NAIKKAN NAIKKAN PINDAH PINDAH NAIKKAN PINDAH SENT-END  ==  [909 frames] -58.1187 [Ac=-52829.9 LM=0.0] (Act=7.2)
+Aligning File: ../train/mfcc/sample12.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END NAIKKAN NAIKKAN PINDAH PINDAH NAIKKAN NAIKKAN PINDAH PINDAH PINDAH SENT-END  ==  [886 frames] -57.8519 [Ac=-51256.8 LM=0.0] (Act=7.3)
+Aligning File: ../train/mfcc/sample13.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BUKA TUTUP BUKA BUKA TUTUP TUTUP TUTUP BUKA BUKA SENT-END  ==  [964 frames] -55.5113 [Ac=-53512.9 LM=0.0] (Act=8.4)
+Aligning File: ../train/mfcc/sample14.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END BELI BUKA TUTUP BELI BUKA BELI BELI BELI BUKA TUTUP SENT-END  ==  [992 frames] -54.9072 [Ac=-54468.0 LM=0.0] (Act=6.9)
+Aligning File: ../train/mfcc/sample15.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TUTUP TUTUP TUTUP TUTUP BUKA BUKA BUKA TUTUP TUTUP SENT-END  ==  [876 frames] -56.0434 [Ac=-49094.0 LM=0.0] (Act=9.4)
+Aligning File: ../train/mfcc/sample16.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BUKA TUTUP TUTUP TUTUP TUTUP BUKA BUKA BUKA TUTUP SENT-END  ==  [866 frames] -55.4112 [Ac=-47986.1 LM=0.0] (Act=8.7)
+Aligning File: ../train/mfcc/sample17.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BELI BELI BELI TUNJUKKAN TUNJUKKAN TUNJUKKAN BELI TUNJUKKAN TUNJUKKAN SENT-END  ==  [941 frames] -57.0085 [Ac=-53645.0 LM=0.0] (Act=7.6)
+Aligning File: ../train/mfcc/sample18.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TUNJUKKAN TUNJUKKAN TUNJUKKAN BELI TUNJUKKAN BELI BELI BELI BELI SENT-END  ==  [905 frames] -57.6869 [Ac=-52206.6 LM=0.0] (Act=7.6)
+Aligning File: ../train/mfcc/sample19.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BELI BELI BELI BELI TUNJUKKAN TUNJUKKAN TUNJUKKAN BELI BELI SENT-END  ==  [827 frames] -59.0744 [Ac=-48854.6 LM=0.0] (Act=8.2)
+Aligning File: ../train/mfcc/sample20.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TIKET LAMPU LAPTOP BROWSER TIKET TIKET LAMPU LAMPU LAPTOP SENT-END  ==  [898 frames] -56.0175 [Ac=-50303.7 LM=0.0] (Act=8.4)
+Aligning File: ../train/mfcc/sample21.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END LAPTOP LAPTOP LAPTOP BROWSER BROWSER TIKET TIKET LAMPU LAPTOP SENT-END  ==  [884 frames] -55.9065 [Ac=-49421.3 LM=0.0] (Act=7.9)
+Aligning File: ../train/mfcc/sample22.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BROWSER BROWSER LAMPU LAPTOP LAPTOP LAPTOP LAMPU LAMPU LAMPU SENT-END  ==  [920 frames] -57.4422 [Ac=-52846.8 LM=0.0] (Act=9.5)
+Aligning File: ../train/mfcc/sample23.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END LAMPU LAMPU LAMPU BROWSER BROWSER BROWSER LAPTOP TIKET TIKET SENT-END  ==  [919 frames] -55.9863 [Ac=-51451.4 LM=0.0] (Act=8.1)
+Aligning File: ../train/mfcc/sample24.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END SLIDE SLIDE AC SUHU SUHU SUHU AC AC AC SENT-END  ==  [913 frames] -55.6656 [Ac=-50822.7 LM=0.0] (Act=9.8)
+Aligning File: ../train/mfcc/sample25.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END SUHU SUHU AC SLIDE SLIDE SLIDE AC AC SUHU SENT-END  ==  [938 frames] -55.6557 [Ac=-52205.0 LM=0.0] (Act=9.9)
+Aligning File: ../train/mfcc/sample26.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END AC AC AC SUHU SUHU SUHU SUHU AC AC SENT-END  ==  [953 frames] -56.2186 [Ac=-53576.3 LM=0.0] (Act=11.3)
+Aligning File: ../train/mfcc/sample27.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END SUHU SUHU SUHU SLIDE SLIDE SLIDE SUHU SLIDE SUHU SENT-END  ==  [889 frames] -57.5536 [Ac=-51165.1 LM=0.0] (Act=9.9)
+Aligning File: ../train/mfcc/sample28.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END SUHU SUHU SLIDE AC AC SLIDE SUHU SUHU SLIDE SENT-END  ==  [912 frames] -56.6278 [Ac=-51644.6 LM=0.0] (Act=8.7)
+Aligning File: ../train/mfcc/sample29.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END AGAR AJA AKADEMIK AKADEMIS ADAPTOR AMAN AMATIR ALKOHOL STATUS SENT-END  ==  [1004 frames] -57.0345 [Ac=-57262.6 LM=0.0] (Act=9.9)
+Aligning File: ../train/mfcc/sample30.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END CELCIUS DAERAH DAMPAK CERAH CEPAT FIGUR GALAKSI GANTENG IDEAL SENT-END  ==  [1055 frames] -55.7430 [Ac=-58808.9 LM=0.0] (Act=7.8)
+Aligning File: ../train/mfcc/sample31.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ISU JADWAL IRIT INSTAN KETIK KATALOG KUOTA LENTUR MAAF SENT-END  ==  [1030 frames] -54.8155 [Ac=-56460.0 LM=0.0] (Act=7.7)
+Aligning File: ../train/mfcc/sample32.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MANAJEMEN MANUSIA MATAHARI MATERI MALAIKAT MENGERTI MEI MASALAH MINGGU SENT-END  ==  [1080 frames] -55.8595 [Ac=-60328.3 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/sample33.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MURUNG MUSIK NOVEMBER OBJEK OTOT PACAR PAKAI PEMBIMBING PENGISIDAYA SENT-END  ==  [987 frames] -56.5904 [Ac=-55854.8 LM=0.0] (Act=10.0)
+Aligning File: ../train/mfcc/sample34.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END REDUPKAN REDUPKAN TERANGKAN REDUPKAN TERANGKAN TERANGKAN REDUPKAN REDUPKAN TERANGKAN SENT-END  ==  [1055 frames] -57.5159 [Ac=-60679.3 LM=0.0] (Act=8.2)
+Aligning File: ../train/mfcc/sample35.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TERANGKAN TERANGKAN REDUPKAN REDUPKAN TERANGKAN ZEBRA REDUPKAN TERANGKAN TERANGKAN SENT-END  ==  [1000 frames] -57.6205 [Ac=-57620.5 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/sample36.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TERANGKAN TERANGKAN TERANGKAN REDUPKAN REDUPKAN REDUPKAN TERANGKAN TERANGKAN REDUPKAN SENT-END  ==  [1023 frames] -56.5563 [Ac=-57857.1 LM=0.0] (Act=8.0)
+Aligning File: ../train/mfcc/sample37.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TERANGKAN REDUPKAN REDUPKAN REDUPKAN TERANGKAN TERANGKAN REDUPKAN REDUPKAN TERANGKAN SENT-END  ==  [1028 frames] -56.1624 [Ac=-57735.0 LM=0.0] (Act=7.7)
+Aligning File: ../train/mfcc/sample38.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END NYATA NYAMAN NYAMAN PAKAIKAN PERSEN PERSEN PERSEN PLANET POLUSI SENT-END  ==  [1043 frames] -54.3510 [Ac=-56688.1 LM=0.0] (Act=7.7)
+Aligning File: ../train/mfcc/sample39.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END RESTU RESTU REZEKI RENCANA RISET ROBOT ROMANTIS RUMUS RUMOR RUMIT SENT-END  ==  [1099 frames] -57.3003 [Ac=-62973.0 LM=0.0] (Act=9.5)
+Aligning File: ../train/mfcc/sample40.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END SURVEI SURVEI SWALAYAN EMAIL EMAIL EMAIL EMAIL SURVEI SWALAYAN SENT-END  ==  [982 frames] -55.5140 [Ac=-54514.7 LM=0.0] (Act=7.4)
+Aligning File: ../train/mfcc/sample41.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END YOGA YOGA YAKIN YA YANG YAYASAN ZEBRA ZEBRA ZINA ZION SENT-END  ==  [1137 frames] -56.5526 [Ac=-64300.3 LM=0.0] (Act=8.1)
+Aligning File: ../train/mfcc/sample42.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ZONA ZONA ZODIAK ZAKAT YUYU WISUDA WARAS WISATA WAHAI SENT-END  ==  [1051 frames] -56.3498 [Ac=-59223.7 LM=0.0] (Act=7.6)
+Aligning File: ../train/mfcc/sample43.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END EMOSI EMULATOR EKSPO EFEKTIF CIUM CUACA DETIK DIA IMAJINASI SENT-END  ==  [1173 frames] -55.3810 [Ac=-64961.9 LM=0.0] (Act=7.4)
+Aligning File: ../train/mfcc/sample44.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END INGIN BAHAGIA BAHASA BALAS BALOK BAKPIA STATUS STATUS SENT-END  ==  [1048 frames] -53.9227 [Ac=-56511.0 LM=0.0] (Act=6.5)
+Aligning File: ../train/mfcc/sample45.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END STATUS STATUS STATUS JAM JAM JAM PUKUL CUACA STATUS SENT-END  ==  [1053 frames] -55.1653 [Ac=-58089.1 LM=0.0] (Act=8.4)
+Aligning File: ../train/mfcc/sample46.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END APRIL APRIL PERSEN PERSEN PERSEN PIL PIMPIN PERSEN PERIODE SENT-END  ==  [1123 frames] -53.2761 [Ac=-59829.0 LM=0.0] (Act=7.5)
+Aligning File: ../train/mfcc/sample47.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ATAU AUDIO BAKPAO AWAL AUDIO ATAU AWAL AWAL AUDIO SENT-END  ==  [1061 frames] -54.9213 [Ac=-58271.5 LM=0.0] (Act=9.8)
+Aligning File: ../train/mfcc/sample48.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END WIBAWA WISUDAWAN SURVEI ABSENTEISME ATEIS ATEIS ABSENTEISME SENT-END  ==  [1063 frames] -55.5546 [Ac=-59054.6 LM=0.0] (Act=6.0)
+Aligning File: ../train/mfcc/sample49.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END SENYAP SENYUM SUNYI TANYAKAN TANYAKAN TANYAKAN EMAIL SENYAP SENT-END  ==  [1001 frames] -54.3380 [Ac=-54392.3 LM=0.0] (Act=7.2)
+Aligning File: ../train/mfcc/sample50.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END KAFEIN KAFEIN PROTEIN PROTEIN FOTO FOLDER FOLDER FOLDER SENT-END  ==  [948 frames] -55.0917 [Ac=-52226.9 LM=0.0] (Act=8.2)
+Aligning File: ../train/mfcc/sample51.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ULANGI ULANGI ULANGI PERKENALKAN PERKENALKAN REDUPKAN REDUPKAN TERANGKAN SENT-END  ==  [1044 frames] -59.1973 [Ac=-61801.9 LM=0.0] (Act=9.4)
+Aligning File: ../train/mfcc/sample52.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PERKENALKAN PERKENALKAN PERKENALKAN REDUPKAN REDUPKAN REDUPKAN PERKENALKAN REDUPKAN PERKENALKAN SENT-END  ==  [1279 frames] -59.0354 [Ac=-75506.3 LM=0.0] (Act=9.0)
+Aligning File: ../train/mfcc/sample53.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ULANGI TERANGKAN TERANGKAN REDUPKAN TERANGKAN TERANGKAN TERANGKAN REDUPKAN TERANGKAN SENT-END  ==  [1056 frames] -58.6122 [Ac=-61894.5 LM=0.0] (Act=8.6)
+Aligning File: ../train/mfcc/sample54.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PERKENALKAN REDUPKAN PERKENALKAN REDUPKAN TERANGKAN TERANGKAN TERANGKAN REDUPKAN PERKENALKAN SENT-END  ==  [1234 frames] -57.6772 [Ac=-71173.6 LM=0.0] (Act=8.8)
+Aligning File: ../train/mfcc/sample55.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MATIKAN MATIKAN MATIKAN NYALAKAN NYALAKAN MATIKAN NYALAKAN NYALAKAN MATIKAN SENT-END  ==  [1059 frames] -59.1544 [Ac=-62644.5 LM=0.0] (Act=7.7)
+Aligning File: ../train/mfcc/sample56.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END VIDEO VIDEO LAMPU LAMPU VIDEO KIPAS KIPAS KIPAS VIDEO SENT-END  ==  [979 frames] -57.6000 [Ac=-56390.4 LM=0.0] (Act=8.6)
+Aligning File: ../train/mfcc/sample57.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TV TV PINTU PINTU MUSIK MUSIK PINTU MUSIK MUSIK SENT-END  ==  [995 frames] -57.2832 [Ac=-56996.8 LM=0.0] (Act=9.3)
+Aligning File: ../train/mfcc/sample58.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END VIDEO VIDEO PINTU PINTU PINTU MUSIK MUSIK MUSIK AC SENT-END  ==  [1017 frames] -56.2810 [Ac=-57237.8 LM=0.0] (Act=7.3)
+Aligning File: ../train/mfcc/sample59.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MUSIK VIDEO MUSIK VIDEO AC MUSIK VIDEO PINTU PINTU SENT-END  ==  [986 frames] -56.4563 [Ac=-55666.0 LM=0.0] (Act=7.5)
+Aligning File: ../train/mfcc/sample60.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END JAM JAM PUKUL PUKUL JAM JAM PUKUL HAPUS HAPUS SENT-END  ==  [1056 frames] -56.0483 [Ac=-59187.0 LM=0.0] (Act=10.7)
+Aligning File: ../train/mfcc/sample61.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HANDPHONE HANDPHONE HAPUS JAM PUKUL PUKUL JAM JAM JAM SENT-END  ==  [993 frames] -56.6606 [Ac=-56264.0 LM=0.0] (Act=9.7)
+Aligning File: ../train/mfcc/sample62.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END NAIKKAN NAIKKAN NAIKKAN TURUNKAN TURUNKAN TURUNKAN NAIKKAN NAIKKAN SENT-END  ==  [909 frames] -58.1267 [Ac=-52837.2 LM=0.0] (Act=8.7)
+Aligning File: ../train/mfcc/sample63.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ULANGI ULANGI ULANGI KOMPUTER LAYAR SISWA KOMPUTER LAYAR SISWA SENT-END  ==  [984 frames] -59.6978 [Ac=-58742.6 LM=0.0] (Act=8.5)
+Aligning File: ../train/mfcc/sample64.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END KOMPUTER LAYAR LAYAR LAYAR SISWA KOMPUTER SISWA KOMPUTER SISWA SENT-END  ==  [1022 frames] -59.1042 [Ac=-60404.5 LM=0.0] (Act=9.0)
+Aligning File: ../train/mfcc/sample65.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MEJA KURSI PAPAN PAPAN HANDPHONE HEADSET HEADSET HEADSET MEJA SENT-END  ==  [1020 frames] -56.3493 [Ac=-57476.3 LM=0.0] (Act=9.0)
+Aligning File: ../train/mfcc/sample66.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MEJA PAPAN PAPAN MEJA PROYEKTOR KABEL KABEL PROYEKTOR PROYEKTOR SENT-END  ==  [896 frames] -59.5391 [Ac=-53347.0 LM=0.0] (Act=9.4)
+Aligning File: ../train/mfcc/sample67.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END CHARGER PROYEKTOR KABEL KARTU CHARGER KARTU KARTU CHARGER CHARGER SENT-END  ==  [954 frames] -59.5201 [Ac=-56782.2 LM=0.0] (Act=13.3)
+Aligning File: ../train/mfcc/sample68.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PENGISIDAYA PENGISIDAYA OSILOSKOP OSILOSKOP MULTIMETER MULTIMETER PULPEN PULPEN OSILOSKOP SENT-END  ==  [1200 frames] -59.8701 [Ac=-71844.2 LM=0.0] (Act=7.0)
+Aligning File: ../train/mfcc/sample69.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END OSILOSKOP MULTIMETER MULTIMETER PENGISIDAYA PENGISIDAYA PULPEN PULPEN PULPEN OSILOSKOP SENT-END  ==  [1181 frames] -58.7497 [Ac=-69383.3 LM=0.0] (Act=7.0)
+Aligning File: ../train/mfcc/sample70.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PENGHAPUS PENGHAPUS PENGGARIS PENGGARIS PENGGARIS JAM JAM PUKUL JAM SENT-END  ==  [1063 frames] -57.4008 [Ac=-61017.1 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/sample71.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END JAM JAM PUKUL PUKUL JAM JAM PUKUL PENGGARIS PENGHAPUS SENT-END  ==  [1128 frames] -55.2165 [Ac=-62284.2 LM=0.0] (Act=9.5)
+Aligning File: ../train/mfcc/sample72.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HANDPHONE HANDPHONE HANDPHONE JAM PUKUL PUKUL JAM JAM JAM SENT-END  ==  [1017 frames] -55.7786 [Ac=-56726.8 LM=0.0] (Act=9.7)
+Aligning File: ../train/mfcc/sample73.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END CUACA CUACA CUACA CUACA HARI HARI HARI HARI INI SENT-END  ==  [1009 frames] -56.2071 [Ac=-56713.0 LM=0.0] (Act=9.5)
+Aligning File: ../train/mfcc/sample74.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END INI INI INI CUACA CUACA CUACA HARI HARI HARI SENT-END  ==  [980 frames] -55.9969 [Ac=-54876.9 LM=0.0] (Act=10.3)
+Aligning File: ../train/mfcc/sample75.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HARI HARI INI INI INI BESOK BESOK BESOK CUACA SENT-END  ==  [1032 frames] -54.5963 [Ac=-56343.4 LM=0.0] (Act=9.5)
+Aligning File: ../train/mfcc/sample76.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BESOK BESOK BESOK INI INI CUACA BESOK BAGAIMANA BAGAIMANA SENT-END  ==  [1017 frames] -57.0195 [Ac=-57988.8 LM=0.0] (Act=7.9)
+Aligning File: ../train/mfcc/sample77.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BAGAIMANA BAGAIMANA APA APA APA APA BERAPA BERAPA BERAPA SENT-END  ==  [1101 frames] -56.7839 [Ac=-62519.0 LM=0.0] (Act=18.5)
+Aligning File: ../train/mfcc/sample78.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BERAPA BERAPA BERAPA BAGAIMANA BAGAIMANA KAPAN KAPAN BAGAIMANA KAPAN SENT-END  ==  [1040 frames] -58.0804 [Ac=-60403.6 LM=0.0] (Act=10.2)
+Aligning File: ../train/mfcc/sample79.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END KAPAN KAPAN KAPAN BERAPA BERAPA BERAPA MENGAPA MENGAPA MENGAPA SENT-END  ==  [1050 frames] -57.2674 [Ac=-60130.8 LM=0.0] (Act=10.3)
+Aligning File: ../train/mfcc/sample80.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END CARI CARI CARI AKTIFKAN MODE HEMAT ENERGI ENERGI HEMAT SENT-END  ==  [942 frames] -58.8755 [Ac=-55460.8 LM=0.0] (Act=9.8)
+Aligning File: ../train/mfcc/sample81.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MODE MODE HEMAT HEMAT HEMAT ENERGI MODE AKTIFKAN AKTIFKAN SENT-END  ==  [1000 frames] -57.3016 [Ac=-57301.6 LM=0.0] (Act=9.6)
+Aligning File: ../train/mfcc/sample82.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END AKTIFKAN AKTIFKAN AKTIFKAN AKTIFKAN HEMAT HEMAT ENERGI MODE MODE SENT-END  ==  [1041 frames] -58.2117 [Ac=-60598.3 LM=0.0] (Act=8.6)
+Aligning File: ../train/mfcc/sample83.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HEMAT HEMAT HEMAT HEMAT ENERGI ENERGI ENERGI MODE MODE SENT-END  ==  [987 frames] -57.7436 [Ac=-56993.0 LM=0.0] (Act=10.7)
+Aligning File: ../train/mfcc/sample84.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MODE MODE MODE MODE HEMAT HEMAT ENERGI ENERGI AKTIFKAN SENT-END  ==  [1048 frames] -58.3227 [Ac=-61122.2 LM=0.0] (Act=11.4)
+Aligning File: ../train/mfcc/sample85.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END AKTIFKAN AKTIFKAN AKTIFKAN BESOK BESOK BESOK AKTIFKAN BESOK BESOK AKTIFKAN SENT-END  ==  [1267 frames] -56.5410 [Ac=-71637.4 LM=0.0] (Act=8.1)
+Aligning File: ../train/mfcc/sample86.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ULANGI ULANGI ULANGI PERKENALKAN PERKENALKAN REDUPKAN REDUPKAN TERANGKAN SENT-END  ==  [906 frames] -64.6737 [Ac=-58594.3 LM=0.0] (Act=11.8)
+Aligning File: ../train/mfcc/sample87.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PERKENALKAN PERKENALKAN PERKENALKAN REDUPKAN REDUPKAN REDUPKAN PERKENALKAN REDUPKAN PERKENALKAN SENT-END  ==  [1000 frames] -65.7050 [Ac=-65705.0 LM=0.0] (Act=11.4)
+Aligning File: ../train/mfcc/sample88.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ULANGI TERANGKAN TERANGKAN REDUPKAN TERANGKAN TERANGKAN TERANGKAN REDUPKAN TERANGKAN SENT-END  ==  [948 frames] -62.4621 [Ac=-59214.1 LM=0.0] (Act=10.2)
+Aligning File: ../train/mfcc/sample89.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PERKENALKAN REDUPKAN PERKENALKAN REDUPKAN TERANGKAN TERANGKAN TERANGKAN REDUPKAN PERKENALKAN SENT-END  ==  [1005 frames] -63.8524 [Ac=-64171.7 LM=0.0] (Act=12.9)
+Aligning File: ../train/mfcc/sample90.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MATIKAN MATIKAN MATIKAN NYALAKAN NYALAKAN MATIKAN NYALAKAN NYALAKAN MATIKAN SENT-END  ==  [995 frames] -63.8132 [Ac=-63494.1 LM=0.0] (Act=9.6)
+Aligning File: ../train/mfcc/sample91.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END VIDEO VIDEO LAMPU LAMPU VIDEO KIPAS KIPAS KIPAS VIDEO SENT-END  ==  [768 frames] -58.6129 [Ac=-45014.7 LM=0.0] (Act=6.9)
+Aligning File: ../train/mfcc/sample92.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TV TV PINTU PINTU MUSIK MUSIK PINTU MUSIK MUSIK SENT-END  ==  [834 frames] -58.1040 [Ac=-48458.7 LM=0.0] (Act=7.6)
+Aligning File: ../train/mfcc/sample93.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END VIDEO VIDEO PINTU PINTU PINTU MUSIK MUSIK MUSIK AC SENT-END  ==  [810 frames] -59.1491 [Ac=-47910.7 LM=0.0] (Act=7.5)
+Aligning File: ../train/mfcc/sample94.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MUSIK VIDEO MUSIK VIDEO AC MUSIK VIDEO PINTU PINTU SENT-END  ==  [761 frames] -58.7716 [Ac=-44725.2 LM=0.0] (Act=7.2)
+Aligning File: ../train/mfcc/sample95.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END JAM JAM PUKUL PUKUL JAM JAM PUKUL HAPUS HAPUS SENT-END  ==  [709 frames] -58.2488 [Ac=-41298.4 LM=0.0] (Act=9.1)
+Aligning File: ../train/mfcc/sample96.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HANDPHONE HANDPHONE HAPUS JAM PUKUL PUKUL JAM JAM JAM SENT-END  ==  [779 frames] -56.7490 [Ac=-44207.5 LM=0.0] (Act=8.7)
+Aligning File: ../train/mfcc/sample97.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END NAIKKAN NAIKKAN NAIKKAN TURUNKAN TURUNKAN TURUNKAN NAIKKAN NAIKKAN SENT-END  ==  [836 frames] -58.3399 [Ac=-48772.2 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/sample98.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ULANGI ULANGI ULANGI KOMPUTER LAYAR SISWA KOMPUTER LAYAR SISWA SENT-END  ==  [833 frames] -60.3423 [Ac=-50265.1 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/sample99.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END KOMPUTER LAYAR LAYAR LAYAR SISWA KOMPUTER SISWA KOMPUTER SISWA SENT-END  ==  [890 frames] -59.0862 [Ac=-52586.8 LM=0.0] (Act=8.8)
+Aligning File: ../train/mfcc/sample100.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MEJA KURSI PAPAN PAPAN HANDPHONE HEADSET HEADSET HEADSET MEJA SENT-END  ==  [807 frames] -60.2490 [Ac=-48620.9 LM=0.0] (Act=7.6)
+Aligning File: ../train/mfcc/sample101.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MEJA PAPAN PAPAN MEJA PROYEKTOR KABEL KABEL PROYEKTOR PROYEKTOR SENT-END  ==  [828 frames] -59.4356 [Ac=-49212.7 LM=0.0] (Act=8.5)
+Aligning File: ../train/mfcc/sample102.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END CHARGER PROYEKTOR KABEL KARTU CHARGER KARTU KARTU CHARGER CHARGER SENT-END  ==  [882 frames] -58.3225 [Ac=-51440.4 LM=0.0] (Act=12.1)
+Aligning File: ../train/mfcc/sample103.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PENGISIDAYA PENGISIDAYA OSILOSKOP OSILOSKOP MULTIMETER MULTIMETER PULPEN PULPEN OSILOSKOP SENT-END  ==  [1085 frames] -58.8423 [Ac=-63843.9 LM=0.0] (Act=7.3)
+Aligning File: ../train/mfcc/sample104.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END OSILOSKOP MULTIMETER MULTIMETER PENGISIDAYA PENGISIDAYA PULPEN PULPEN PULPEN OSILOSKOP SENT-END  ==  [1042 frames] -59.1731 [Ac=-61658.4 LM=0.0] (Act=7.1)
+Aligning File: ../train/mfcc/sample105.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PENGHAPUS PENGHAPUS PENGGARIS PENGGARIS PENGGARIS JAM JAM PUKUL JAM SENT-END  ==  [855 frames] -58.2235 [Ac=-49781.1 LM=0.0] (Act=8.6)
+Aligning File: ../train/mfcc/sample106.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END JAM JAM PUKUL PUKUL JAM JAM PUKUL PENGGARIS PENGHAPUS SENT-END  ==  [832 frames] -56.2397 [Ac=-46791.4 LM=0.0] (Act=9.1)
+Aligning File: ../train/mfcc/sample107.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HANDPHONE HANDPHONE HANDPHONE JAM PUKUL PUKUL JAM JAM JAM SENT-END  ==  [847 frames] -56.9798 [Ac=-48261.9 LM=0.0] (Act=8.8)
+Aligning File: ../train/mfcc/sample108.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END CUACA CUACA CUACA CUACA HARI HARI HARI HARI INI SENT-END  ==  [1046 frames] -55.4092 [Ac=-57958.0 LM=0.0] (Act=8.5)
+Aligning File: ../train/mfcc/sample109.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END INI INI INI CUACA CUACA CUACA HARI HARI HARI SENT-END  ==  [1153 frames] -54.6172 [Ac=-62973.6 LM=0.0] (Act=8.7)
+Aligning File: ../train/mfcc/sample110.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HARI HARI INI INI INI BESOK BESOK BESOK CUACA SENT-END  ==  [1143 frames] -54.4253 [Ac=-62208.1 LM=0.0] (Act=9.1)
+Aligning File: ../train/mfcc/sample111.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BESOK BESOK BESOK INI INI CUACA BESOK BAGAIMANA BAGAIMANA SENT-END  ==  [1158 frames] -54.1494 [Ac=-62705.0 LM=0.0] (Act=6.9)
+Aligning File: ../train/mfcc/sample112.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BAGAIMANA BAGAIMANA APA APA APA APA BERAPA BERAPA BERAPA SENT-END  ==  [1084 frames] -56.3902 [Ac=-61127.0 LM=0.0] (Act=16.6)
+Aligning File: ../train/mfcc/sample113.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END BERAPA BERAPA BERAPA BAGAIMANA BAGAIMANA KAPAN KAPAN BAGAIMANA KAPAN SENT-END  ==  [1139 frames] -55.4931 [Ac=-63206.6 LM=0.0] (Act=8.9)
+Aligning File: ../train/mfcc/sample114.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END KAPAN KAPAN KAPAN BERAPA BERAPA BERAPA MENGAPA MENGAPA MENGAPA SENT-END  ==  [1104 frames] -56.2533 [Ac=-62103.6 LM=0.0] (Act=9.8)
+Aligning File: ../train/mfcc/sample115.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END CARI CARI CARI AKTIFKAN MODE HEMAT ENERGI ENERGI HEMAT SENT-END  ==  [1069 frames] -54.2736 [Ac=-58018.5 LM=0.0] (Act=8.2)
+Aligning File: ../train/mfcc/sample116.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MODE MODE HEMAT HEMAT HEMAT ENERGI MODE AKTIFKAN AKTIFKAN SENT-END  ==  [1089 frames] -54.9414 [Ac=-59831.1 LM=0.0] (Act=8.8)
+Aligning File: ../train/mfcc/sample117.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END AKTIFKAN AKTIFKAN AKTIFKAN AKTIFKAN HEMAT HEMAT ENERGI MODE MODE SENT-END  ==  [1125 frames] -54.2595 [Ac=-61041.9 LM=0.0] (Act=7.8)
+Aligning File: ../train/mfcc/sample118.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HEMAT HEMAT HEMAT HEMAT ENERGI ENERGI ENERGI MODE MODE SENT-END  ==  [1071 frames] -54.6681 [Ac=-58549.6 LM=0.0] (Act=9.8)
+Aligning File: ../train/mfcc/sample119.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MODE MODE MODE MODE HEMAT HEMAT ENERGI ENERGI AKTIFKAN SENT-END  ==  [1022 frames] -55.8088 [Ac=-57036.6 LM=0.0] (Act=9.2)
+Aligning File: ../train/mfcc/sample120.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END AKTIFKAN AKTIFKAN AKTIFKAN BESOK BESOK BESOK AKTIFKAN BESOK BESOK AKTIFKAN SENT-END  ==  [1315 frames] -54.6515 [Ac=-71866.8 LM=0.0] (Act=7.6)
+Aligning File: ../train/mfcc/sample121.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ULANGI ULANGI ULANGI PERKENALKAN PERKENALKAN REDUPKAN REDUPKAN TERANGKAN SENT-END  ==  [725 frames] -59.3613 [Ac=-43036.9 LM=0.0] (Act=11.7)
+Aligning File: ../train/mfcc/sample122.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PERKENALKAN PERKENALKAN PERKENALKAN REDUPKAN REDUPKAN REDUPKAN PERKENALKAN REDUPKAN PERKENALKAN SENT-END  ==  [969 frames] -59.4613 [Ac=-57618.0 LM=0.0] (Act=11.8)
+Aligning File: ../train/mfcc/sample123.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ULANGI TERANGKAN TERANGKAN REDUPKAN TERANGKAN TERANGKAN TERANGKAN REDUPKAN TERANGKAN SENT-END  ==  [1047 frames] -55.2359 [Ac=-57832.0 LM=0.0] (Act=8.2)
+Aligning File: ../train/mfcc/sample124.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PERKENALKAN REDUPKAN PERKENALKAN REDUPKAN TERANGKAN TERANGKAN TERANGKAN REDUPKAN PERKENALKAN SENT-END  ==  [1017 frames] -57.8209 [Ac=-58803.8 LM=0.0] (Act=9.7)
+Aligning File: ../train/mfcc/sample125.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MATIKAN MATIKAN MATIKAN NYALAKAN NYALAKAN MATIKAN NYALAKAN NYALAKAN MATIKAN SENT-END  ==  [1044 frames] -55.6658 [Ac=-58115.1 LM=0.0] (Act=7.3)
+Aligning File: ../train/mfcc/sample126.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END VIDEO VIDEO LAMPU LAMPU VIDEO KIPAS KIPAS KIPAS VIDEO SENT-END  ==  [1048 frames] -54.3811 [Ac=-56991.4 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/sample127.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TV TV PINTU PINTU MUSIK MUSIK PINTU MUSIK MUSIK SENT-END  ==  [1003 frames] -57.1276 [Ac=-57299.0 LM=0.0] (Act=8.5)
+Aligning File: ../train/mfcc/sample128.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END VIDEO VIDEO PINTU PINTU PINTU MUSIK MUSIK MUSIK AC SENT-END  ==  [1113 frames] -56.1379 [Ac=-62481.5 LM=0.0] (Act=9.0)
+Aligning File: ../train/mfcc/sample129.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MUSIK VIDEO MUSIK VIDEO AC MUSIK VIDEO PINTU PINTU SENT-END  ==  [1113 frames] -55.3204 [Ac=-61571.6 LM=0.0] (Act=8.2)
+Aligning File: ../train/mfcc/sample130.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END JAM JAM PUKUL PUKUL JAM JAM PUKUL HAPUS HAPUS SENT-END  ==  [1135 frames] -56.4788 [Ac=-64103.4 LM=0.0] (Act=10.6)
+Aligning File: ../train/mfcc/sample131.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HANDPHONE HANDPHONE HAPUS JAM PUKUL PUKUL JAM JAM JAM SENT-END  ==  [1140 frames] -55.3001 [Ac=-63042.1 LM=0.0] (Act=9.8)
+Aligning File: ../train/mfcc/sample132.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END NAIKKAN NAIKKAN NAIKKAN TURUNKAN TURUNKAN TURUNKAN NAIKKAN NAIKKAN SENT-END  ==  [1068 frames] -57.3084 [Ac=-61205.4 LM=0.0] (Act=9.0)
+Aligning File: ../train/mfcc/sample133.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ULANGI ULANGI ULANGI KOMPUTER LAYAR SISWA KOMPUTER LAYAR SISWA SENT-END  ==  [1123 frames] -56.7896 [Ac=-63774.7 LM=0.0] (Act=8.6)
+Aligning File: ../train/mfcc/sample134.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END ULANGI ULANGI ULANGI PERKENALKAN PERKENALKAN REDUPKAN REDUPKAN TERANGKAN SENT-END  ==  [1092 frames] -55.4926 [Ac=-60597.9 LM=0.0] (Act=9.2)
+Aligning File: ../train/mfcc/sample135.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PERKENALKAN PERKENALKAN PERKENALKAN REDUPKAN REDUPKAN REDUPKAN PERKENALKAN REDUPKAN PERKENALKAN SENT-END  ==  [1233 frames] -55.9257 [Ac=-68956.4 LM=0.0] (Act=9.7)
+Aligning File: ../train/mfcc/sample136.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ULANGI TERANGKAN TERANGKAN REDUPKAN TERANGKAN TERANGKAN TERANGKAN REDUPKAN TERANGKAN SENT-END  ==  [1082 frames] -56.0801 [Ac=-60678.6 LM=0.0] (Act=9.4)
+Aligning File: ../train/mfcc/sample137.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PERKENALKAN REDUPKAN PERKENALKAN REDUPKAN TERANGKAN TERANGKAN TERANGKAN REDUPKAN PERKENALKAN SENT-END  ==  [1108 frames] -56.0338 [Ac=-62085.4 LM=0.0] (Act=9.8)
+Aligning File: ../train/mfcc/sample138.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MATIKAN MATIKAN MATIKAN NYALAKAN NYALAKAN MATIKAN NYALAKAN NYALAKAN MATIKAN SENT-END  ==  [1101 frames] -55.1075 [Ac=-60673.4 LM=0.0] (Act=8.0)
+Aligning File: ../train/mfcc/sample139.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END VIDEO VIDEO LAMPU LAMPU VIDEO KIPAS KIPAS KIPAS VIDEO SENT-END  ==  [971 frames] -57.5485 [Ac=-55879.6 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/sample140.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END TV TV PINTU PINTU MUSIK MUSIK PINTU MUSIK MUSIK SENT-END  ==  [950 frames] -57.6136 [Ac=-54733.0 LM=0.0] (Act=9.6)
+Aligning File: ../train/mfcc/sample141.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END VIDEO VIDEO PINTU PINTU PINTU MUSIK MUSIK MUSIK AC SENT-END  ==  [952 frames] -57.7402 [Ac=-54968.6 LM=0.0] (Act=8.2)
+Aligning File: ../train/mfcc/sample142.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MUSIK VIDEO MUSIK VIDEO AC MUSIK VIDEO PINTU PINTU SENT-END  ==  [842 frames] -59.5934 [Ac=-50177.7 LM=0.0] (Act=7.7)
+Aligning File: ../train/mfcc/sample143.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END JAM JAM PUKUL PUKUL JAM JAM PUKUL HAPUS HAPUS SENT-END  ==  [960 frames] -55.7998 [Ac=-53567.8 LM=0.0] (Act=10.0)
+Aligning File: ../train/mfcc/sample144.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HANDPHONE HANDPHONE HAPUS JAM PUKUL PUKUL JAM JAM JAM SENT-END  ==  [981 frames] -55.4665 [Ac=-54412.6 LM=0.0] (Act=10.9)
+Aligning File: ../train/mfcc/sample145.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END NAIKKAN NAIKKAN NAIKKAN TURUNKAN TURUNKAN TURUNKAN NAIKKAN NAIKKAN SENT-END  ==  [967 frames] -56.0113 [Ac=-54162.9 LM=0.0] (Act=9.3)
+Aligning File: ../train/mfcc/sample146.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END ULANGI ULANGI ULANGI KOMPUTER LAYAR SISWA KOMPUTER LAYAR SISWA SENT-END  ==  [1036 frames] -57.0022 [Ac=-59054.3 LM=0.0] (Act=8.7)
+Aligning File: ../train/mfcc/sample147.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END KOMPUTER LAYAR LAYAR LAYAR SISWA KOMPUTER SISWA KOMPUTER SISWA SENT-END  ==  [905 frames] -58.7332 [Ac=-53153.6 LM=0.0] (Act=9.3)
+Aligning File: ../train/mfcc/sample148.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MEJA KURSI PAPAN PAPAN HANDPHONE HEADSET HEADSET HEADSET MEJA SENT-END  ==  [967 frames] -57.5562 [Ac=-55656.9 LM=0.0] (Act=8.6)
+Aligning File: ../train/mfcc/sample149.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END MEJA PAPAN PAPAN MEJA PROYEKTOR KABEL KABEL PROYEKTOR PROYEKTOR SENT-END  ==  [1009 frames] -57.9647 [Ac=-58486.4 LM=0.0] (Act=10.6)
+Aligning File: ../train/mfcc/sample150.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END CHARGER PROYEKTOR KABEL KARTU CHARGER KARTU KARTU CHARGER CHARGER SENT-END  ==  [937 frames] -57.2492 [Ac=-53642.5 LM=0.0] (Act=13.3)
+Aligning File: ../train/mfcc/sample151.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PENGISIDAYA PENGISIDAYA OSILOSKOP OSILOSKOP MULTIMETER MULTIMETER PULPEN PULPEN OSILOSKOP SENT-END  ==  [1062 frames] -59.4671 [Ac=-63154.1 LM=0.0] (Act=8.3)
+Aligning File: ../train/mfcc/sample152.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END OSILOSKOP MULTIMETER MULTIMETER PENGISIDAYA PENGISIDAYA PULPEN PULPEN PULPEN OSILOSKOP SENT-END  ==  [955 frames] -60.9652 [Ac=-58221.8 LM=0.0] (Act=8.4)
+Aligning File: ../train/mfcc/sample153.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END PENGHAPUS PENGHAPUS PENGGARIS PENGGARIS PENGGARIS JAM JAM PUKUL JAM SENT-END  ==  [917 frames] -56.7018 [Ac=-51995.6 LM=0.0] (Act=8.8)
+Aligning File: ../train/mfcc/sample154.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END JAM JAM PUKUL PUKUL JAM JAM PUKUL PENGGARIS PENGHAPUS SENT-END  ==  [995 frames] -55.3879 [Ac=-55111.0 LM=0.0] (Act=9.8)
+Aligning File: ../train/mfcc/sample155.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END HANDPHONE HANDPHONE HANDPHONE JAM PUKUL PUKUL JAM JAM JAM SENT-END  ==  [1004 frames] -55.0881 [Ac=-55308.5 LM=0.0] (Act=9.1)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+

@@ -1,0 +1,45 @@
+WARNING: no script file ../lexicon/LexiconBahasaIndonesia.txt.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+LexiconBahas       719        719        719        719
+    dict-tri       719        719        719        719
+
+719 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. a     :   744
+  2. b     :   127
+  3. s     :   280
+  4. e     :   116
+  5. n     :   227
+  6. sp    :   717
+  7. i     :   360
+  8. t     :   223
+  9. ey    :     7
+ 10. m     :   181
+ 11. ax    :   157
+ 12. u     :   231
+ 13. c     :    31
+ 14. k     :   215
+ 15. r     :   216
+ 16. d     :    93
+ 17. l     :   204
+ 18. h     :    90
+ 19. p     :   113
+ 20. o     :   133
+ 21. g     :    62
+ 22. ay    :    26
+ 23. j     :    40
+ 24. f     :    55
+ 25. ng    :    51
+ 26. aw    :    13
+ 27. y     :    57
+ 28. ny    :     9
+ 29. w     :    40
+ 30. z     :    10
+ 31. sil   :     2
+
+Dictionary dict-tri created
