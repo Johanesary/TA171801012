@@ -1,0 +1,729 @@
+ABSEN           [ABSEN]            a b s e n
+ABSENSI         [ABSENSI]          a b s e n s i   
+ABSENTEISME     [ABSENTEISME]      a b s e n t ey i s m ax
+ABU             [ABU]              a b u
+ABU-ABU         [ABU]              a b u a b u
+AC              [AC]               a s e
+ACAK-ACAKAN     [ACAK-ACAKAN]      a c a k a c a k a n
+ACARA           [ACARA]            a c a r a
+ADA             [ADA]              a d a
+ADALAH          [ADALAH]           a d a l a h
+ADAPTASI        [ADAPTASI]         a d a p t a s i
+ADAPTASIKAN     [ADAPTASIKAN]      a d a p t a s i k a n
+ADAPTOR         [ADAPTOR]          a d a p t o r
+ADIK            [ADIK]             a d i k
+ADMINISTRASI    [ADMINISTRASI]     a d m i n i s t r a s i
+AGAMA           [AGAMA]            a g a m a
+AGAR            [AGAR]             a g a r
+AGNOSTIK        [AGNOSTIK]         a g n o s t i k
+AGUSTUS         [AGUSTUS]          a g u s t u s
+AIR             [AIR]              ay i r
+AJA             [AJA]              a j a
+AJAR            [AJAR]             a j a r
+AKADEMIK        [AKADEMIK]         a k a d ax m i k
+AKADEMIS        [AKADEMIS]         a k a d ax m i s
+AKAL            [AKAL]             a k a l
+AKAN            [AKAN]             a k a n
+AKRONIM         [AKRONIM]          a k r o n i m
+AKSI            [AKSI]             a k s i
+AKTA            [AKTA]             a k t a
+AKTIFKAN        [AKTIFKAN]         a k t i f k a n
+AKU             [AKU]              a k u
+AKUN            [AKUN]             a k u n
+AKURASI         [AKURASI]          a k u r a s i
+ALARM           [ALARM]            a l a r e m
+ALAT            [ALAT]             a l a t
+ALERGI          [ALERGI]           a l e r g i
+ALFA            [ALFA]             a l f a
+ALFABETIS       [ALFABETIS]        a l f a b e t i s
+ALJABAR         [ALJABAR]          a l j a b a r
+ALKITAB         [ALKITAB]          a l k i t a p
+ALKOHOL         [ALKOHOL]          a l k o h o l
+ALMAMATER       [ALMAMATER]        a l m a m a t ax r
+ALTERNATIF      [ALTERNATIF]       a l t ax r n a t i f
+AMAN            [AMAN]             a m a n
+AMATIR          [AMATIR]           a m a t i r
+AMBISI          [AMBISI]           a m b i s i
+AMPAS           [AMPAS]            a m p a s
+ANAK            [ANAK]             a n a k
+ANALISIS        [ANALISIS]         a n a l i s i s
+ANALOG          [ANALOG]           a n a l o k
+ANALOGI         [ANALOGI]          a n a l o g i
+ANCAM           [ANCAM]            a n c a m
+ANEH            [ANEH]             a n e h
+ANEKDOT         [ANEKDOT]          a n e k d o t
+ANGKA           [ANGKA]            a ng k a
+ANGKLUNG        [ANGKLUNG]         a ng k ax l u ng
+ANJING          [ANJING]           a n j i ng
+ANONIM          [ANONIM]           a n o n i m
+ANTAR           [ANTAR]            a n t a r
+ANTARA          [ANTARA]           a n t a r a
+ANTARBANGSA     [ANTARBANGSA]      a n t a r b a ng s a
+ANTARBENUA      [ANTARBENUA]       a n t a r b ax n u a
+ANTARDAERAH     [ANTARDAERAH]      a n t a r d a e r a h
+ANTARIKSA       [ANTARIKSA]        a n t a r i k s a
+ANTEM           [ANTEM]            a n t ax m
+ANTENA          [ANTENA]           a n t e n a
+ANTI            [ANTI]             a n t i
+ANTISIPASI      [ANTISIPASI]       a n t i s i p a s i
+APA             [APA]              a p a
+APABILA         [APABILA]          a p a b i l a
+APES            [APES]             a p ax s
+API             [API]              a p i
+APRIL           [APRIL]            a p r i l
+ARAH            [ARAH]             a r a h
+ARANSEMEN       [ARANSEMEN]        a r a n s ax m e n
+ARGUMEN         [ARGUMEN]          a r g u m e n
+AROMA           [AROMA]            a r o m a
+ARTIS           [ARTIS]            a r t i s
+ASAM            [ASAM]             a s a m
+ASIN            [ASIN]             a s i n
+ASONG           [ASONG]            a s o ng
+ATAS            [ATAS]             a t a s
+ATAU            [ATAU]             a t aw
+ATEIS           [ATEIS]            a t ey i s
+ATUR            [ATUR]             a t u r
+AUDIO           [AUDIO]            aw d i y o
+AVIASI          [AVIASI]           a f i y a s i
+AWAL            [AWAL]             aw a l
+AYO             [AYO]              a y o
+BACA            [BACA]             b a c a          
+BAGAIMANA       [BAGAIMANA]        b a g ay m a n a
+BAGI            [BAGI]             b a g i
+BAHAGIA         [BAHAGIA]          b a h a g i y a
+BAHAS           [BAHAS]            b a h a s
+BAHASA          [BAHASA]           b a h a s a
+BAIK            [BAIK]             b ay i k
+BAJAK           [BAJAK]            b a j a k
+BAKMI           [BAKMI]            b a k m i
+BAKPAO          [BAKPAO]           b a k p aw
+BAKPIA          [BAKPIA]           b a k p i y a
+BALAS           [BALAS]            b a l a s
+BALOK           [BALOK]            b a l o k
+BANDARA         [BANDARA]          b a n d a r a
+BANDEL          [BANDEL]           b a n d ax l
+BANDUNG         [BANDUNG]          b a n d u ng
+BANGET          [BANGET]           b a ng e t
+BANJIR          [BANJIR]           b a n j i r
+BANYAK          [BANYAK]           b a ny a k
+BAPA            [BAPA]             b a p a
+BARAT           [BARAT]            b a r a t
+BARIS           [BARIS]            b a r i s
+BARU            [BARU]             b a r u
+BATIK           [BATIK]            b a t i k
+BATU            [BATU]             b a t u
+BAU             [BAU]              b a w u
+BAWA            [BAWA]             b aw a
+BAWAH           [BAWAH]            b aw a h
+BEBAN           [BEBAN]            b ax b a n
+BEDA            [BEDA]             b e d a
+BEKAL           [BEKAL]            b ax k a l
+BEKU            [BEKU]             b ax k u
+BELAH           [BELAH]            b ax l a h
+BELAKANG        [BELAKANG]         b ax l a k a ng
+BELANJA         [BELANJA]          b ax l a n j a
+BELAS           [BELAS]            b ax l a s
+BELI            [BELI]             b ax l i
+BELUM           [BELUM]            b ax l u m
+BERAPA          [BERAPA]           b ax r a p a
+BERAT           [BERAT]            b ax r a t
+BERISIK         [BERISIK]          b ax r i s i k
+BERSIH          [BERSIH]           b ax r s i h
+BESOK           [BESOK]            b e s o k
+BETUL           [BETUL]            b ax t u l
+BIASA           [BIASA]            b i y a s a
+BIAYA           [BIAYA]            b i y a y a
+BICARA          [BICARA]           b i c a r a
+BISA            [BISA]             b i s a
+BISING          [BISING]           b i s i ng
+BISNIS          [BISNIS]           b i s n i s
+BOBOT           [BOBOT]            b o b o t
+BODOH           [BODOH]            b o d o h
+BOGOR           [BOGOR]            b o g o r
+BOLOS           [BOLOS]            b o l o s
+BONGKAR         [BONGKAR]          b o ng k a r
+BROWSER         [BROWSER]          b r aw s ax r
+BUAH            [BUAH]             b u w a h
+BUAT            [BUAT]             b u w a t
+BUKA            [BUKA]             b u k a
+BUKU            [BUKU]             b u k u
+BULAN           [BULAN]            b u l a n
+BULU            [BULU]             b u l u
+BUNGA           [BUNGA]            b u ng a
+BURUK           [BURUK]            b u r u k
+BUTUH           [BUTUH]            b u t u h
+CALON           [CALON]            c a l o n
+CANGGUNG        [CANGGUNG]         c a ng g u ng
+CANTIK          [CANTIK]           c a n t i k
+CARA            [CARA]             c a r a
+CARI            [CARI]             c a r i
+CEGAH           [CEGAH]            c ax g a h
+CEK             [CEK]              c e k
+CELCIUS         [CELCIUS]          s e l s i y u s
+CEMERLANG       [CEMERLANG]        c ax m ax r l a ng
+CEPAT           [CEPAT]            c ax p a t
+CERAH           [CERAH]            c ax r a h
+CERDAS          [CERDAS]           c ax r d a s
+CETAK           [CETAK]            c e t a k
+CHARGER         [CHARGER]          c a r j ax r
+CIUM            [CIUM]             c i y u m
+CUACA           [CUACA]            c u w a c a
+DAERAH          [DAERAH]           d a e r a h
+DAMPAK          [DAMPAK]           d a m p a k
+DAN             [DAN]              d a n
+DANSA           [DANSA]            d a n s a
+DATA            [DATA]             d a t a
+DATANG          [DATANG]           d a t a ng
+DAYA            [DAYA]             d a y a
+DEKAT           [DEKAT]            d ax k a t
+DELAPAN         [DELAPAN]          d e l a p a n
+DELAPANBELAS    [DELAPANBELAS]     d e l a p a n b ax l a s
+DEMO            [DEMO]             d e m o
+DESEMBER        [DESEMBER]         d e s e m b ax r     
+DETIK           [DETIK]            d ax t i k
+DIA             [DIA]              d i y a
+DIALOG          [DIALOG]           d i y a l o g
+DIMANA          [DIMANA]           d i m a n a
+DIMENSI         [DIMENSI]          d i m e n s i
+DINGIN          [DINGIN]           d i ng i n
+DIRI            [DIRI]             d i r i
+DOSEN           [DOSEN]            d o s e n
+DUA             [DUA]              d u w a
+DUABELAS        [DUABELAS]         d u w a b ax l a s
+DUAPULUH        [DUAPULUH]         d u w a p u l u h
+DUKA            [DUKA]             d u k a
+DUNIA           [DUNIA]            d u n i y a
+EDIT            [EDIT]             e d i t
+EFEKTIF         [EFEKTIF]          e f e k t i f
+EKSEKUSI        [EKSEKUSI]         e k s ax k u s i
+EKSPANSI        [EKSPANSI]         e k s p a n s i
+EKSPO           [EKSPO]            e k s p o
+EKSTRAKSI       [EKSTRAKSI]        e k s t r a k s i
+ELEKTRO         [ELEKTRO]          e l e k t r o
+EMAIL           [EMAIL]            i m ey l
+EMISI           [EMISI]            e m i s i
+EMOSI           [EMOSI]            e m o s i
+EMPAT           [EMPAT]            ax m p a t
+EMPATBELAS      [EMPATBELAS]       ax m p a t b ax l a s
+EMULATOR        [EMULATOR]         e m u l a t o r
+ENAM            [ENAM]             ax n a m
+ENAMBELAS       [ENAMBELAS]        ax n a m b ax l a s
+ENERGI          [ENERGI]           e n ax r g i
+ENGKAU          [ENGKAU]           ax ng k aw
+FAKULTAS        [FAKULTAS]         f a k u l t a s
+FASE            [FASE]             f a s ax
+FASIH           [FASIH]            f a s i h
+FASILITAS       [FASILITAS]        f a s i l i t a s
+FEBRUARI        [FEBRUARI]         f e b r u a r i
+FIBER           [FIBER]            f i b ax r
+FIGUR           [FIGUR]            f i g u r
+FILM            [FILM]             f i l ax m
+FINAL           [FINAL]            f i n a l
+FOLDER          [FOLDER]           f o l d ax r
+FOTO            [FOTO]             f o t o
+FUNGSI          [FUNGSI]           f u ng s i
+FUNGSIONAL      [FUNGSIONAL]       f u ng s i y o n a l
+GABUNG          [GABUNG]           g a b u ng
+GADIS           [GADIS]            g a d i s
+GADO-GADO       [GADO-GADO]        g a d o g a d o
+GAGAH           [GAGAH]            g a g a h
+GALAK           [GALAK]            g a l a k
+GALAKSI         [GALAKSI]          g a l a k s i
+GAMBAR          [GAMBAR]           g a m b a r
+GANTENG         [GANTENG]          g a n t ax ng
+GATAL           [GATAL]            g a t a l
+GAYA            [GAYA]             g a y a
+GELAP           [GELAP]            g ax l a p
+GEMA            [GEMA]             g ax m a
+GENAP           [GENAP]            g ax n a p
+GENDUT          [GENDUT]           g ax n d u t
+GERAH           [GERAH]            g ax r a h
+GIGI            [GIGI]             g i g i
+GIGIH           [GIGIH]            g i g i h
+GOLF            [GOLF]             g o l f
+HADIAH          [HADIAH]           h a d i y a h
+HAI             [HAI]              h ay
+HALAL           [HALAL]            h a l a l
+HALO            [HALO]             h a l o
+HANDPHONE       [HANDPHONE]        h e n f o n
+HANDUK          [HANDUK]           h a n d u k
+HAPUS           [HAPUS]            h a p u s
+HARGA           [HARGA]            h a r g a
+HARI            [HARI]             h a r i
+HATI            [HATI]             h a t i
+HAUS            [HAUS]             h a w u s
+HEADSET         [HEADSET]          h e t s e t
+HEMAT           [HEMAT]            h e m a t
+HIBERNASI       [HIBERNASI]        h i b ax r n a s i
+HIDUNG          [HIDUNG]           h i d u ng
+HIDUP           [HIDUP]            h i d u p
+HIDUPKAN        [HIDUPKAN]         h i d u p k a n
+HITAM           [HITAM]            h i t a m
+HITUNG          [HITUNG]           h i t u ng
+HOBI            [HOBI]             h o b i
+HOTEL           [HOTEL]            h o t e l
+HUJAN           [HUJAN]            h u j a n
+HUMANIS         [HUMANIS]          h u m a n i s
+HUMOR           [HUMOR]            h u m o r
+HURUF           [HURUF]            h u r u f
+IBADAH          [IBADAH]           i b a d a h
+IBU             [IBU]              i b u
+IDEAL           [IDEAL]            i d e y a l
+IDENTITAS       [IDENTITAS]        i d e n t i t a s
+IKON            [IKON]             i k o n
+IKUT            [IKUT]             i k u t
+ILMU            [ILMU]             i l m u
+ILUSI           [ILUSI]            i l u s i
+IMAJINASI       [IMAJINASI]        i m a j i n a s i
+INDAH           [INDAH]            i n d a h
+INDIVIDU        [INDIVIDU]         i n d i f i d u
+INDIVIDUAL      [INDIVIDUAL]       i n d i f i d u w a l
+INDONESIA       [INDONESIA]        i n d o n e s i y a
+INFORMASI       [INFORMASI]        i n f o r m a s i
+INGAT           [INGAT]            i ng a t
+INGIN           [INGIN]            i ng i n 
+INI             [INI]              i n i
+INISIAL         [INISIAL]          i n i s i y a l
+INOVASI         [INOVASI]          i n o f a s i
+INSTAN          [INSTAN]           i n s t a n
+INSTITUT        [INSTITUT]         i n s t i t u t
+INSTRUKSI       [INSTRUKSI]        i n s t r u k s i
+INTI            [INTI]             i n t i
+IRIT            [IRIT]             i r i t
+ISU             [ISU]              i s u
+JADWAL          [JADWAL]           j a t w a l
+JAHAT           [JAHAT]            j a h a t
+JALANKAN        [JALANKAN]         j a l a n k a n
+JAM             [JAM]              j a m
+JANJI           [JANJI]            j a n j i
+JANUARI         [JANUARI]          j a n u w a r i
+JARAK           [JARAK]            j a r a k
+JAS             [JAS]              j a s
+JELASKAN        [JELASKAN]         j ax l a s k a n
+JEMPUT          [JEMPUT]           j ax m p u t
+JENIS           [JENIS]            j ax n i s
+JERUK           [JERUK]            j ax r u k
+JINGGA          [JINGGA]           j i ng g a
+JUAL            [JUAL]             j u w a l
+JUDUL           [JUDUL]            j u d u l
+JUJUR           [JUJUR]            j u j u r
+JULI            [JULI]             j u l i
+JUMAT           [JUMAT]            j u m a t
+JUNI            [JUNI]             j u n i
+KABAR           [KABAR]            k a b a r
+KABEL           [KABEL]            k a b ax l
+KACA            [KACA]             k a c a
+KAFEIN          [KAFEIN]           k a f ey i n
+KAKAK           [KAKAK]            k a k a k
+KALENDER        [KALENDER]         k a l e n d ax r
+KALI            [KALI]             k a l i
+KALIAN          [KALIAN]           k a l i y a n
+KALIMAT         [KALIMAT]          k a l i m a t
+KAMI            [KAMI]             k a m i
+KAMIS           [KAMIS]            k a m i s
+KAMPUNG         [KAMPUNG]          k a m p u ng
+KAMUS           [KAMUS]            k a m u s
+KANGEN          [KANGEN]           k a ng ax n
+KAPAN           [KAPAN]            k a p a n
+KARMA           [KARMA]            k a r m a
+KARTU           [KARTU]            k a r t u
+KARYA           [KARYA]            k a r y a
+KASA            [KASA]             k a s a
+KASUR           [KASUR]            k a s u r
+KATA            [KATA]             k a t a
+KATALOG         [KATALOG]          k a t a l o k
+KEJAM           [KEJAM]            k ax j a m
+KELAMIN         [KELAMIN]          k ax l a m i n
+KELAS           [KELAS]            k ax l a s
+KELUAR          [KELUAR]           k ax l u w a r
+KEMARIN         [KEMARIN]          k ax m a r i n
+KEMBALI         [KEMBALI]          k ax m b a l i
+KEMBAR          [KEMBAR]           k ax m b a r
+KENAL           [KENAL]            k ax n a l
+KENAPA          [KENAPA]           k ax n a p a
+KERTAS          [KERTAS]           k ax r t a s
+KESAL           [KESAL]            k ax s a l
+KESAN           [KESAN]            k ax s a n
+KETEMU          [KETEMU]           k ax t ax m u
+KETIK           [KETIK]            k ax t i k
+KIPAS           [KIPAS]            k i p a s
+KIRIM           [KIRIM]            k i r i m
+KISAH           [KISAH]            k i s a h
+KITA            [KITA]             k i t a
+KOLEKSI         [KOLEKSI]          k o l e k s i
+KOMPARASI       [KOMPARASI]        k o m p a r a s i
+KOMPUTER        [KOMPUTER]         k o m p u t e r
+KONSEP          [KONSEP]           k o n s e p
+KOTOR           [KOTOR]            k o t o r
+KREATIVITAS     [KREATIVITAS]      k r e a t i f i t a s
+KUALITAS        [KUALITAS]         k u w a l i t a s
+KUDA            [KUDA]             k u d a
+KUIS            [KUIS]             k u w i s
+KULIAH          [KULIAH]           k u l i y a h
+KULIT           [KULIT]            k u l i t
+KUNCI           [KUNCI]            k u n c i
+KUOTA           [KUOTA]            k u w o t a
+KURANG          [KURANG]           k u r a ng
+KURSI           [KURSI]            k u r s i
+KURSUS          [KURSUS]           k u r s u s
+KURUS           [KURUS]            k u r u s
+LAGU            [LAGU]             l a g u
+LAKUKAN         [LAKUKAN]          l a k u k a n
+LALAI           [LALAI]            l a l ay
+LALU            [LALU]             l a l u
+LAMA            [LAMA]             l a m a
+LAMPU           [LAMPU]            l a m p u
+LANGIT          [LANGIT]           l a ng i t
+LANTAI          [LANTAI]           l a n t ay 
+LAPORKAN        [LAPORKAN]         l a p o r k a n
+LAPTOP          [LAPTOP]           l e p t o p
+LARI            [LARI]             l a r i
+LAUT            [LAUT]             l a w u t
+LAYAR           [LAYAR]            l ay a r
+LEGAL           [LEGAL]            l e g a l
+LELAH           [LELAH]            l ax l a h
+LELEH           [LELEH]            l e l e h
+LEMARI          [LEMARI]           l ax m a r i
+LENSA           [LENSA]            l e n s a
+LENTUR          [LENTUR]           l ax n t u r
+LENYAP          [LENYAP]           l e ny a p
+LES             [LES]              l e s
+LEVEL           [LEVEL]            l e f ax l
+LIAR            [LIAR]             l i y a r
+LIDAH           [LIDAH]            l i d a h
+LIHAT           [LIHAT]            l i h a t
+LILIN           [LILIN]            l i l i n
+LIMA            [LIMA]             l i m a
+LIMABELAS       [LIMABELAS]        l i m a b ax l a s
+LIMIT           [LIMIT]            l i m i t
+LITER           [LITER]            l i t ax r
+LOGARITMA       [LOGARITMA]        l o g a r i t m a
+LOKASI          [LOKASI]           l o k a s i
+LOMBA           [LOMBA]            l o m b a
+LUCU            [LUCU]             l u c u
+LUKIS           [LUKIS]            l u k i s
+LULUS           [LULUS]            l u l u s
+LUPAKAN         [LUPAKAN]          l u p a k a n
+LUSA            [LUSA]             l u s a
+MAAF            [MAAF]             m a a f
+MAHAL           [MAHAL]            m a h a l
+MAHASISWA       [MAHASISWA]        m a h a s i s w a
+MAHASISWI       [MAHASISWI]        m a h a s i s w i
+MAINKAN         [MAINKAN]          m ay i n k a n
+MAJUKAN         [MAJUKAN]          m a j u k a n
+MALAIKAT        [MALAIKAT]         m a l ay k a t
+MALAS           [MALAS]            m a l a s
+MAMA            [MAMA]             m a m a
+MANAJEMEN       [MANAJEMEN]        m a n a j ax m e n
+MANUSIA         [MANUSIA]          m a n u s i y a
+MARET           [MARET]            m a r ax t
+MASAKAN         [MASAKAN]          m a s a k a n
+MASALAH         [MASALAH]          m a s a l a h
+MASIH           [MASIH]            m a s i h
+MASUK           [MASUK]            m a s u k
+MASUKKAN        [MASUKAN]          m a s u k a n
+MASYARAKAT      [MASYARAKAT]       m a s y a r a k a t
+MATAHARI        [MATAHARI]         m a t a h a r i
+MATERI          [MATERI]           m a t e r i
+MATI            [MATI]             m a t i
+MATIKAN         [MATIKAN]          m a t i k a n
+MAU             [MAU]              m a w u
+MEI             [MEI]              m ey
+MEJA            [MEJA]             m e j a
+MENGAPA         [MENGAPA]          m ax ng a p a
+MENGERTI        [MENGERTI]         m ax ng ax r t i
+MENTARI         [MENTARI]          m ax n t a r i
+MEREKA          [MEREKA]           m ax r e k a
+METER           [METER]            m e t ax r
+MEWAH           [MEWAH]            m e w a h 
+MIKROFON        [MIKROFON]         m i k r o f o n
+MIMPI           [MIMPI]            m i m p i
+MINGGU          [MINGGU]           m i ng g u
+MINIMUM         [MINIMUM]          m i n i m u m
+MINTA           [MINTA]            m i n t a
+MISTERIUS       [MISTERIUS]        m i s t e r i y u s
+MODE            [MODE]             m o d ax
+MODEL           [MODEL]            m o d e l
+MODUL           [MODUL]            m o d u l
+MOMEN           [MOMEN]            m o m ax n
+MONITOR         [MONITOR]          m o n i t o r
+MORAL           [MORAL]            m o r a l
+MOTIVASI        [MOTIVASI]         m o t i f a s i
+MUDAH           [MUDAH]            m u d a h
+MULTIMEDIA      [MULTIMEDIA]       m u l t i m e d i y a
+MULTIMETER      [MULTIMETER]       m u l t i m e t ax r
+MURAH           [MURAH]            m u r a h
+MURUNG          [MURUNG]           m u r u ng
+MUSIK           [MUSIK]            m u s i k
+MUSIM           [MUSIM]            m u s i m
+MUSUH           [MUSUH]            m u s u h
+NAIKKAN         [NAIKKAN]          n ay i k a n
+NAKAL           [NAKAL]            n a k a l
+NAMA            [NAMA]             n a m a
+NASEHAT         [NASEHAT]          n a s e h a t
+NEGARA          [NEGARA]           n ax g a r a
+NIKAH           [NIKAH]            n i k a h
+NOMOR           [NOMOR]            n o m o r
+NOVEMBER        [NOVEMBER]         n o f e m b ax r
+NYALAKAN        [NYALAKAN]         ny a l a k a n
+NYAMAN          [NYAMAN]           ny a m a n
+NYATA           [NYATA]            ny a t a
+OBAT            [OBAT]             o b a t
+OBJEK           [OBJEK]            o b j e k
+OKTOBER         [OKTOBER]          o k t o b ax r
+OLAHRAGA        [OLAHRAGA]         o l a h r a g a
+OLEH            [OLEH]             o l e h
+OPERATOR        [OPERATOR]         o p ax r a t o r
+OPSI            [OPSI]             o p s i
+OSILOSKOP       [OSILOSKOP]        o s i l o s k o p
+OTOMATIS        [OTOMATIS]         o t o m a t i s
+OTOT            [OTOT]             o t o t
+PACAR           [PACAR]            p a c a r
+PADA            [PADA]             p a d a
+PAHAM           [PAHAM]            p a h a m
+PAKAI           [PAKAI]            p a k ay
+PAKAIKAN        [PAKAIKAN]         p a k ay k a n
+PANAS           [PANAS]            p a n a s
+PANGGIL         [PANGGIL]          p a ng g i l
+PANGGILKAN      [PANGGILKAN]       p a ng g i l k a n
+PANIK           [PANIK]            p a n i k
+PAPA            [PAPA]             p a p a
+PAPAN           [PAPAN]            p a p a n
+PAS             [PAS]              p a s
+PASTIKAN        [PASTIKAN]         p a s t i k a n
+PEMBIMBING      [PEMBIMBING]       p ax m b i m b i ng
+PENGGARIS       [PENGGARIS]        p ax ng g a r i s
+PENGHAPUS       [PENGHAPUS]        p ax ng h a p u s
+PENGISIDAYA     [PENGISIDAYA]      p ax ng i s i d ay a
+PENSIL          [PENSIL]           p e n s i l
+PERCAYA         [PERCAYA]          p ax r c ay a
+PERFORMA        [PERFORMA]         p ax r f o r m a
+PERIODE         [PERIODE]          p e r i y o d ax
+PERKENALKAN     [PERKENALKAN]      p ax r k ax n a l k a n
+PERSEN          [PERSEN]           p ax r s e n
+PERSENTASE      [PERSENTASE]       p ax r s e n t a s ax
+PIL             [PIL]              p i l
+PIMPIN          [PIMPIN]           p i m p i n
+PINDAH          [PINDAH]           p i n d a h
+PINTAR          [PINTAR]           p i n t a r
+PINTU           [PINTU]            p i n t u
+PLANET          [PLANET]           p l a n e t
+POLO            [POLO]             p o l o
+POLUSI          [POLUSI]           p o l u s i
+PORTAL          [PORTAL]           p o r t a l
+PROTEIN         [PROTEIN]          p r o t ey i n
+PROTEKSI        [PROTEKSI]         p r o t e k s i
+PROYEKTOR       [PROYEKTOR]        p r o y e k t o r
+PUKUL           [PUKUL]            p u k u l
+PULPEN          [PULPEN]           p u l p e n
+PULUH           [PULUH]            p u l u h
+PUTAR           [PUTAR]            p u t a r
+QARI            [QARI]             k a r i
+QARIAH          [QARIAH]           k a r i y a h
+QASAR           [QASAR]            k a s a r
+QIRAAH          [QIRAAH]           k i r a a h
+QUDSI           [QUDSI]            k u d s i
+QURAN           [QURAN]            k u r a n
+RABA            [RABA]             r a b a
+RABU            [RABU]             r a b u
+RABUN           [RABUN]            r a b u n
+RACUN           [RACUN]            r a c u n
+RADIO           [RADIO]            r a d i y o
+RAGI            [RAGI]             r a g i
+RAGU            [RAGU]             r a g u
+RAMU            [RAMU]             r a m u
+RASA            [RASA]             r a s a
+RATUS           [RATUS]            r a t u s
+RAWAN           [RAWAN]            r aw a n
+RAWON           [RAWON]            r aw o n
+RAYU            [RAYU]             r ay u
+RAZIA           [RAZIA]            r a z i y a
+REDUPKAN        [REDUPKAN]         r ax d u p k a n
+REKOR           [REKOR]            r e k o r
+RELA            [RELA]             r e l a
+RELAKS          [RELAKS]           r e l a k s
+RENCANA         [RENCANA]          r ax n c a n a
+RESMIKAN        [RESMIKAN]         r ax m i k a n
+RESTU           [RESTU]            r ax s t u
+REZEKI          [REZEKI]           r ax z ax k i
+RILEKS          [RILEKS]           r i l e k s
+RINDU           [RINDU]            r i n d u
+RISET           [RISET]            r i s e t
+ROBOT           [ROBOT]            r o b o t
+ROMANTIS        [ROMANTIS]         r o m a n t i s
+RUMAH           [RUMAH]            r u m a h
+RUMIT           [RUMIT]            r u m i t
+RUMOR           [RUMOR]            r u m o r
+RUMUS           [RUMUS]            r u m u s
+RUNCING         [RUNCING]          r u n c i ng
+SABTU           [SABTU]            s a p t u
+SAFARI          [SAFARI]           s a f a r i
+SAHABAT         [SAHABAT]          s a h a b a t
+SAINS           [SAINS]            s ay i n s
+SAKIT           [SAKIT]            s a k i t
+SALAH           [SALAH]            s a l a h
+SAMA            [SAMA]             s a m a
+SAMPAIKAN       [SAMPAIKAN]        s a m p ay k a n
+SANITASI        [SANITASI]         s a n i t a s i
+SAPU            [SAPU]             s a p u
+SATU            [SATU]             s a t u
+SAYA            [SAYA]             s ay a
+SAYEMBARA       [SAYEMBARA]        s ay ax m b a r a
+SAYU            [SAYU]             s ay u
+SEBAL           [SEBAL]            s ax b a l
+SEBELAS         [SEBELAS]          s ax b ax l a s
+SEDIAKAN        [SEDIAKAN]         s ax d i y a k a n
+SEKARANG        [SEKARANG]         s ax k a r a ng
+SELASA          [SELASA]           s ax l a s a
+SELEBRASI       [SELEBRASI]        s e l e b r a s i
+SELEKSI         [SELEKSI]          s e l e k s i
+SEMARAK         [SEMARAK]          s ax m a r a k
+SEMBILAN        [SEMBILAN]         s ax m b i l a n
+SEMBILANBELAS   [SEMBILANBELAS]    s ax m b i l a n b ax l a s
+SEMBUH          [SEMBUH]           s ax m b u h
+SEMI            [SEMI]             s ax m i
+SEMINAR         [SEMINAR]          s ax m i n a r
+SEMUA           [SEMUA]            s ax m u w a
+SENIN           [SENIN]            s ax n i n
+SENT-END        []                 sil
+SENT-START      []                 sil
+SENTIMEN        [SENTIMEN]         s e n t i m e n
+SENYAP          [SENYAP]           s ax ny a p
+SENYUM          [SENYUM]           s ax ny u m
+SEPATU          [SEPATU]           s ax p a t u
+SEPEDA          [SEPEDA]           s ax p e d a
+SEPTEMBER       [SEPTEMBER]        s e p t e m b ax r
+SEPULUH         [SEPULUH]          s ax p u l u h
+SERATUS         [SERATUS]          s ax r a t u s
+SERIUS          [SERIUS]           s ax r i y u s
+SETIA           [SETIA]            s ax t i y a
+SIAPA           [SIAPA]            s i y a p a
+SIKAT           [SIKAT]            s i k a t
+SIMPAN          [SIMPAN]           s i m p a n
+SISAKAN         [SISAKAN]          s i s a k a n
+SISTEM          [SISTEM]           s i s t ax m
+SISWA           [SISWA]            s i s w a
+SLIDE           [SLIDE]            s l ay d
+SOAL            [SOAL]             s o a l
+SOSIAL          [SOSIAL]           s o s i y a l
+SPEAKER         [SPEAKER]          s p i k ax r
+STATUS          [STATUS]           s t a t u s
+SUBJEK          [SUBJEK]           s u p j e k
+SUDAH           [SUDAH]            s u d a h
+SUHU            [SUHU]             s u h u
+SULIT           [SULIT]            s u l i t
+SUNYI           [SUNYI]            s u ny i
+SURVEI          [SURVEI]           s u r f ey
+SUSUN           [SUSUN]            s u s u n
+SWALAYAN        [SWALAYAN]         s w a l ay a n
+SWASTA          [SWASTA]           s w a s t a
+TAHUN           [TAHUN]            t a h u n
+TAKDIR          [TAKDIR]           t a k d i r
+TAMAN           [TAMAN]            t a m a n
+TAMBAH          [TAMBAH]           t a m b a h
+TAMBAL          [TAMBAL]           t a m b a l
+TAMPAN          [TAMPAN]           t a m p a n
+TANGGAL         [TANGGAL]          t a ng g a l
+TANYAKAN        [TANYAKAN]         t a ny a k a n
+TAPI            [TAPI]             t a p i
+TAS             [TAS]              t a s
+TEKAN           [TEKAN]            t ax k a n
+TEKNISI         [TEKNISI]          t e k n i s i
+TEKNOLOGI       [TEKNOLOGI]        t e k n o l o g i
+TELEVISI        [TELEVISI]         t e l e f i s i
+TELPON          [TELPON]           t e l p o n
+TEMAN           [TEMAN]            t ax m a n
+TEMPERATUR      [TEMPERATUR]       t ax m p ax r a t u r
+TEMUKAN         [TEMUKAN]          t ax m u k a n
+TENIS           [TENIS]            t e n i s
+TERANGKAN       [TERANGKAN]        t ax r a ng k a n
+TES             [TES]              t e s
+TIBA            [TIBA]             t i b a
+TIDUR           [TIDUR]            t i d u r
+TIGA            [TIGA]             t i g a
+TIGABELAS       [TIGABELAS]        t i g a b ax l a s
+TIKET           [TIKET]            t i k e t
+TIMPA           [TIMPA]            t i m p a
+TINGGALKAN      [TINGGALKAN]       t i ng g a l k a n
+TINGGI          [TINGGI]           t i ng g i
+TITAN           [TITAN]            t ay t a n
+TOILET          [TOILET]           t o y i l e t
+TOPIK           [TOPIK]            t o p i k
+TUJUH           [TUJUH]            t u j u h
+TUJUHBELAS      [TUJUHBELAS]       t u j u h b ax l a s
+TUKARKAN        [TUKARKAN]         t u k a r k a n
+TUNAI           [TUNAI]            t u n ay
+TUNJUKKAN       [TUNJUKKAN]        t u n j u k a n
+TURIS           [TURIS]            t u r i s
+TURUNKAN        [TURUNKAN]         t u r u n k a n
+TUTORIAL        [TUTORIAL]         t u t o r i y a l
+TUTUP           [TUTUP]            t u t u p
+TV              [TV]               t i f i
+UANG            [UANG]             u w a ng
+UBI             [UBI]              u b i
+UKUR            [UKUR]             u k u r
+ULANGI          [ULANGI]           u l a ng i
+ULTRA           [ULTRA]            u l t r a
+UMUM            [UMUM]             u m u m
+UMUR            [UMUR]             u m u r
+UNGU            [UNGU]             u ng u
+UNIVERSITAS     [UNIVERSITAS]      u n i f ax r s i t a s
+USAHA           [USAHA]            u s a h a
+USER            [USER]             y u s e r
+USIA            [USIA]             u s i y a
+VAKSIN          [VAKSIN]           f a k s i n
+VAKUM           [VAKUM]            f a k u m
+VALID           [VALID]            f a l i d
+VARIASI         [VARIASI]          f a r i y a s i
+VASKULIN        [VASKULIN]         f a s k u l i n
+VERIFIKASI      [VERIFIKASI]       f e r i f i k a s i
+VERSO           [VERSO]            f e r s o
+VIDEO           [VIDEO]            f i d i y o
+VIRTUAL         [VIRTUAL]          f i r t u w a l
+VISUAL          [VISUAL]           f i s u w a l
+VODKA           [VODKA]            f o t k a
+VOLUME          [VOLUME]           f o l u m ax
+WACANA          [WACANA]           w a c a n a
+WAHAI           [WAHAI]            w a h ay
+WAKTU           [WAKTU]            w a k t u
+WALI            [WALI]             w a l i
+WARAS           [WARAS]            w a r a s
+WARGA           [WARGA]            w a r g a
+WIBAWA          [WIBAWA]           w i b aw a
+WISATA          [WISATA]           w i s a t a
+WISATAWAN       [WISATAWAN]        w i s a t aw a n
+WISUDA          [WISUDA]           w i s u d a
+WISUDAWAN       [WISUDAWAN]        w i s u d aw a n
+WORTEL          [WORTEL]           w o r t ax l
+XENOFOBIA       [XENOFOBIA]        s e n o f o b i y a
+XENOGRAF        [XENOGRAF]         s e n o g r a f
+XENON           [XENON]            s e n o n
+XILENA          [XILENA]           s i l e n a
+XILOID          [XILOID]           s i l o y i d
+XILOSA          [XILOSA]           s i l o s a
+YA              [YA]               y a
+YAKIN           [YAKIN]            y a k i n
+YANG            [YANG]             y a ng
+YAYASAN         [YAYASAN]          y ay a s a n
+YOGA            [YOGA]             y o g a
+YOGHURT         [YOGHURT]          y o g u r t
+YURISDIKSI      [YURISDIKSI]       y u r i s d i k s i
+YUYU            [YUYU]             y u y u
+ZAKAT           [ZAKAT]            z a k a t
+ZAMAN           [ZAMAN]            z a m a n
+ZEBRA           [ZEBRA]            z e b r a
+ZINA            [ZINA]             z i n a
+ZION            [ZION]             z i y o n
+ZODIAK          [ZODIAK]           z o d i y a k
+ZONA            [ZONA]             z o n a
+ZOOLOGI         [ZOOLOGI]          z o l o g i
+
+
+
+
+
+
+
+
+
+
