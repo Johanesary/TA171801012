@@ -1,0 +1,5 @@
+STAT: include config: sample.jconf
+
+pass1_best: <s>
+<search failed>
+

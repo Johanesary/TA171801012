@@ -1,0 +1,22 @@
+STAT: ###### initialize input device
+Stat: adin_alsa: device name from ALSADEV: "plughw:1,0"
+Stat: capture audio at 16000Hz
+Stat: adin_alsa: latency set to 32 msec (chunk = 512 bytes)
+Stat: "plughw:1,0": Device [USB Audio Device] device USB Audio [USB Audio] subdevice #0
+STAT: AD-in thread created
+data.wav: 16576 samples (1.04 sec.) [ 41280 ( 2.58s) -  57856 ( 3.62s)]
+Error: adin_alsa: error in snd_pcm_wait() (Input/output error)
+Error: adin thread exit with error
+Stat: adin_alsa: device name from ALSADEV: "plughw:1,0"
+Stat: capture audio at 16000Hz
+Stat: adin_alsa: latency set to 32 msec (chunk = 512 bytes)
+Stat: "plughw:1,0": Device [USB Audio Device] device USB Audio [USB Audio] subdevice #0
+STAT: AD-in thread created
+data.wav: 17600 samples (1.10 sec.) [ 12096 ( 0.76s) -  29696 ( 1.86s)]
+Error: adin_alsa: error in snd_pcm_wait() (Input/output error)
+Error: adin thread exit with error
+Stat: adin_alsa: device name from ALSADEV: "plughw:1,0"
+Stat: capture audio at 16000Hz
+Stat: adin_alsa: latency set to 32 msec (chunk = 512 bytes)
+Stat: "plughw:1,0": Device [USB Audio Device] device USB Audio [USB Audio] subdevice #0
+STAT: AD-in thread created

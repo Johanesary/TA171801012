@@ -1,0 +1,421 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[HALO]	h a l o
+2	[HAI]	h ay
+2	[SELAMAT]	s ax l a m a t
+3	[SEMUANYA]	s ax m u w a ny a
+3	[TEMAN-TEMAN]	t ax m a n t ax m a n
+3	[BAPAK]	b a p a k
+3	[IBU]	i b u
+3	[PAK]	p a k
+3	[BU]	b u
+3	[ANAK-ANAK]	a n a k a n a k
+3	[PESERTA]	p ax s ax r t a
+4	[PAGI]	p a g i
+4	[SORE]	s o r e
+4	[SIANG]	s i y a ng
+4	[MALAM]	m a l a m
+5	[SEMUANYA]	s ax m u w a ny a
+5	[TEMAN-TEMAN]	t ax m a n t ax m a n
+5	[ANAK-ANAK]	a n a k a n a k
+5	[KITA]	k i t a
+6	[SUDAHI]	s u d a h i
+6	[BERTEMU]	b ax r t ax m u
+7	[SAMPAI]	s a m p ay
+8	[DISINI]	d i s i n i
+8	[DEPAN]	d ax p a n
+9	[DULU]	d u l u
+9	[PADA]	p a d a
+10	[YA]	y a
+11	[HARI]	h a r i
+11	[BESOK]	b e s o k
+12	[MINGGU]	m i ng g u
+12	[SENIN]	s e n i n
+12	[SELASA]	s ax l a s a
+12	[RABU]	r a b u
+12	[KAMIS]	k a m i s
+12	[JUMAT]	j u m a t
+12	[SABTU]	s a p t u
+13	[SAYA]	s ay a
+13	[KALIAN]	k a l i y a n
+14	[PR]	p e e r
+14	[TUGAS]	t u g a s
+14	[UJIAN]	u j i y a n
+15	[GIMANA]	g i m a n a
+15	[APAKAH]	a p a k a h
+15	[KAPAN]	k a p a n
+15	[BAGAIMANA]	b a g ay m a n a
+16	[SELESAI]	s ax l ax s ay
+16	[NGERJAIN]	ng ax r j a y i n
+16	[KASIH]	k a s i h
+16	[BERI]	b ax r i
+16	[MENGERJAKAN]	m ax ng ax r j a k a n
+16	[DIKUMPULKAN]	d i k u m p u l k a n
+17	[MAU]	m a w u
+18	[KAN]	k a n
+18	[NYA]	ny a
+19	[SUDAH]	s u d a h
+19	[UDAH]	u d a h
+19	[BISA]	b i s a
+19	[BUAT]	b u w a t
+19	[UNTUK]	u n t u k
+19	[PADA]	p a d a
+19	[ADA]	a d a
+20	[SUSAH]	s u s a h
+20	[GAMPANG]	g a m p a ng
+20	[MUDAH]	m u d a h
+21	[TIDAK]	t i d a k
+21	[NGGA]	ng g a
+21	[GA]	g a
+22	[HARI]	h a r i
+22	[BESOK]	b e s o k
+23	[MINGGU]	m i ng g u
+23	[SENIN]	s e n i n
+23	[SELASA]	s ax l a s a
+23	[RABU]	r a b u
+23	[KAMIS]	k a m i s
+23	[JUMAT]	j u m a t
+23	[SABTU]	s a p t u
+24	[DEPAN]	d ax p a n
+25	[YA]	y a
+26	[DI]	d i
+27	[TANGGAL]	t a ng g a l
+28	[KITA]	k i t a
+28	[KALIAN]	k a l i y a n
+29	[LIBUR]	l i b u r
+29	[LIBURAN]	l i b u r a n
+29	[ISTIRAHAT]	i s t i r a h a t
+29	[BREAK]	b r e k
+29	[DITIADAKAN]	d i t i y a d a k a n
+29	[DILIBURKAN]	d i l i b u r k a n
+29	[KUNJUNGAN]	k u n j u ng a n
+30	[KELAS]	k ax l a s
+30	[PERTEMUAN]	p ax r t ax m u w a 
+31	[SEKOLAH]	s ax k o l a h
+31	[UNIVERSITAS]	u n i f ax r s i t a s
+32	[HARI]	h a r i
+32	[BESOK]	b e s o k
+33	[YA]	y a
+34	[ADA]	a d a
+34	[LAIN]	l a y i n
+34	[DULU]	d u l u
+35	[MINGGU]	m i ng g u
+35	[SENIN]	s e n i n
+35	[SELASA]	s ax l a s a
+35	[RABU]	r a b u
+35	[KAMIS]	k a m i s
+35	[JUMAT]	j u m a t
+35	[SABTU]	s a p t u
+36	[DEPAN]	d ax p a n
+37	[KE]	k ax
+37	[DARI]	d a r i
+37	[DI]	d i
+38	[NOL]	n o l
+38	[SATU]	s a t u
+38	[DUA]	d u w a
+38	[TIGA]	t i g a
+38	[EMPAT]	ax m p a t
+38	[LIMA]	l i m a
+38	[ENAM]	ax n a m
+38	[TUJUH]	t u j u h
+38	[DELAPAN]	d ax l a p a n
+38	[SEMBILAN]	s ax m b i l a n
+39	[SEBELAS]	s ax b ax l a s
+40	[SEPULUH]	s ax p u l u h
+41	[SERIBU]	s ax r i b u
+42	[SERATUS]	s ax r a t u s
+43	[BELAS]	b ax l a s
+44	[PULUH]	p u l u h
+45	[RATUS]	r a t u s
+46	[RIBU]	r i b u
+47	[KALI]	k a l i
+47	[BAGI]	b a g i
+47	[PANGKAT]	p a ng k a t
+47	[AKAR]	a k a r
+47	[MINUS]	m i n ax s
+47	[MIN]	m i n
+47	[PLUS]	p l ax s
+47	[TAMBAH]	t a m b a h
+47	[KURANG]	k u r a ng
+48	[SAMA]	s a m a
+49	[DENGAN]	d ax ng a n 
+50	[SAYA]	s ay a
+50	[ANDA]	a n d a
+50	[KITA]	k i t a
+51	[PADA]	p a d a
+51	[AKAN]	a k a n
+51	[UNTUK]	u n t u k
+51	[LAGI]	l a g i
+52	[INI]	i n i
+53	[HARI]	h a r i
+53	[BESOK]	b e s o k
+54	[MINGGU]	m i ng g u
+54	[SENIN]	s e n i n
+54	[SELASA]	s ax l a s a
+54	[RABU]	r a b u
+54	[KAMIS]	k a m i s
+54	[JUMAT]	j u m a t
+54	[SABTU]	s a p t u
+55	[MEMBAHAS]	m ax m b a h a s
+55	[MENERANGKAN]	m ax n ax r a ng k a n
+55	[MENJELASKAN]	m ax n j ax l a s k a n
+55	[MEMPELAJARI]	m ax m p ax l a j a r i
+55	[MEMBERIKAN]	m ax m b ax r i k a n
+55	[BUKA]	b u k a
+55	[SIAPKAN]	s i y a p k a n
+55	[BAWA]	b aw a
+55	[PELAJARI]	p ax l a j a r i
+55	[KUMPULKAN]	k u m p u l k a n
+56	[MENGENAI]	m ax ng ax n ay i
+56	[TENTANG]	t e n t a ng
+57	[OPERASI]	o p ax r a s i
+58	[MATEMATIKA]	m a t ax m a t i k a
+58	[PR]	p e e r
+58	[TUGAS]	t u g a s
+58	[PERMUKAAN]	p ax r m u k a a n
+58	[KUIS]	k u w i s
+58	[BUKU]	b u k u
+58	[UJIAN]	u j i y a n
+59	[PENGURANGAN]	p ax ng u r a ng a n
+59	[PERTAMBAHAN]	p ax r t a m b a h a n
+59	[PERKALIAN]	p ax r k a l i y a n
+59	[PEMBAGIAN]	p ax m b a g i y a n
+60	[PERTEMUAN]	p ax r t ax m u w a 
+61	[BERIKUTNYA]	b ax r i k u t ny a
+61	[SELANJUTNYA]	s ax l a n j u t ny a
+62	[YA]	y a
+63	[BERAPA]	b ax r a p a
+64	[TOLONG]	t o l o n g
+65	[CETAK]	c e t a k
+66	[HALAMAN]	h a l a m a n
+67	[JANGAN]	j a ng a n
+68	[LUPA]	l u p a
+69	[BUSUR]	b u s u r
+69	[PENGGARIS]	p ax ng g a r i s
+69	[JANGKA]	j a ng k a
+69	[PENSIL]	p e n s i l
+69	[PENGHAPUS]	p ax ng h a p u s
+69	[KALKULATOR]	k a l k u l a t o r
+70	[DAN]	d a n
+71	[TANGGAL]	t a ng g a l
+72	[JANUARI]	j a n u w a r i
+72	[FEBRUARI]	f e b r u w a r i
+72	[MARET]	m a r ax t
+72	[APRIL]	a p r i l
+72	[MEI]	m ey
+72	[JUNI]	j u n i
+72	[JULI]	j u l i
+72	[AGUSTUS]	a g u s t u s
+72	[SEPTEMBER]	s e p t e m b ax r
+72	[OKTOBER]	o k t o b ax r
+72	[NOVEMBER]	n o f e m b ax r
+72	[DESEMBER]	d e s e m b ax r
+73	[DEPAN]	d ax p a n
+74	[KITA]	k i t a
+74	[KALIAN]	k a l i y a n
+74	[SAYA]	s ay a
+74	[KAMU]	k a m u
+74	[ANDA]	a n d a
+75	[AYO]	a y o
+76	[YANG]	y a ng
+76	[UNTUK]	u n t u k
+76	[KALAU]	k a l aw
+76	[PADA]	p a d a
+77	[MEMAKAI]	m ax m a k ay
+77	[PAKAI]	p a k ay
+77	[MENGERTI]	m ax ng ax r t i
+77	[MENERANGKAN]	m ax n ax r a ng k a n
+77	[MENJELASKAN]	m ax n j ax l a s k a n
+77	[MENGERJAKAN]	m ax ng ax r j a k a n
+78	[KEMEJA]	k ax m e j a
+78	[BAJU]	b a j u
+79	[HITAM]	h i t a m
+79	[KUNING]	k u n i ng
+79	[MERAH]	m e r a h
+79	[BIRU]	b i r u
+79	[ABU-ABU]	a b u a b u
+79	[UNGU]	u ng u
+79	[JINGGA]	j i ng g a
+79	[ORANYE]	o r a ny ax
+79	[EMAS]	ax m a s
+79	[SILVER]	s i l f ax r
+80	[KOTAK-KOTAK]	k o t a k k o t a k
+80	[GARIS]	g a r i s
+81	[MAJU]	m a j u
+81	[BERDIRI]	b ax r d i r i
+81	[DUDUK]	d u d u k
+82	[KE]	k ax
+83	[DI]	d i
+84	[DEPAN]	d ax p a n
+84	[UJUNG]	u j u ng
+84	[DISANA]	d i s a n a
+85	[TIDAK]	t i d a k
+86	[ADA]	a d a
+86	[COBA]	c o b a
+86	[BUTUH]	b u t u h
+87	[AKAN]	a k a n
+88	[KASIH]	k a s i h
+88	[BERI]	b ax r i
+89	[NILAI]	n i l ay
+90	[PLUS]	p l ax s
+90	[POIN]	p o y i n
+90	[UJIAN]	u j i y a n
+90	[KUIS]	k u w i s
+90	[SURAT]	s u r a t
+91	[KERJAKAN]	k ax r j a k a n
+91	[HITUNG]	h i t u ng
+91	[SAKIT]	s a k i t
+91	[IZIN]	i z i n
+91	[TULIS]	t u l i s
+91	[CATAT]	c a t a t
+92	[BERSAMA]	b ax r s a m a
+93	[YA]	y a
+94	[DARI]	d a r i
+95	[WAKTU]	w a k t u
+95	[JAM]	j a m
+96	[LUAS]	l u w a s
+96	[KELILING]	k ax l i l i ng
+97	[VOLUME]	f o l u m ax
+98	[LUAS]	l u w a s
+99	[p]	ax r m u k a a n
+100	[LINGKARAN]	l i ng k a r a n
+100	[PERSEGI]	p ax r s ax g i
+100	[JAJARGENJANG]	j a j a r g ax n j a ng
+101	[BOLA]	b o l a
+101	[TABUNG]	t a b u ng
+102	[SEGITIGA]	s ax g i t i g a
+103	[SIKU-SIKU]	s i k u s i k u
+103	[SEMBARANG]	s ax m b a r a ng
+104	[BELAH]	b ax l a h
+105	[KETUPAT]	k ax t u p a t
+106	[MAU]	m a w u
+107	[SIAPA]	s i y a p a
+108	[NOMOR]	n o m o r
+108	[HALAMAN]	h a l a m a n
+108	[BUKU]	b u k u
+108	[KERTAS]	k ax r t a s
+109	[FOLIO]	f o l i y o
+109	[HVS]	h a f e e s
+109	[BURAM]	b u r a m
+109	[BEKAS]	b ax k a s
+109	[BARU]	b a r u
+109	[CATATAN]	c a t a t a n
+110	[SELEMBAR]	s ax l ax m b a r
+111	[PAGI]	p a g i
+111	[SORE]	s o r e
+111	[SIANG]	s i y a ng
+111	[MALAM]	m a l a m
+112	[SAMPAI]	s a m p ay
+113	[ATAU]	a t aw
+114	[KALIAN]	k a l i y a n
+114	[DIRI]	d i r i
+115	[RATA-RATA]	r a t a r a t a
+115	[KKM]	k a k a e m
+115	[UJIAN]	u j i y a n
+115	[PERTANYAAN]	p ax r t a ny a a n
+116	[NILAI]	n i l ay
+116	[PERBAIKAN]	p ax r b ay i k a n
+116	[SEMESTER]	s ax m e s t ax r
+116	[ANAK]	a n a k
+116	[PESERTA]	p ax s ax r t a
+117	[TANGGAL]	t a ng g a l
+118	[JANUARI]	j a n u w a r i
+118	[FEBRUARI]	f e b r u w a r i
+118	[MARET]	m a r ax t
+118	[APRIL]	a p r i l
+118	[MEI]	m ey
+118	[JUNI]	j u n i
+118	[JULI]	j u l i
+118	[AGUSTUS]	a g u s t u s
+118	[SEPTEMBER]	s e p t e m b ax r
+118	[OKTOBER]	o k t o b ax r
+118	[NOVEMBER]	n o f e m b ax r
+118	[DESEMBER]	d e s e m b ax r
+119	[APAKAH]	a p a k a h
+120	[BANYAK]	b a ny a k
+120	[SEDIKIT]	s ax d i k i t
+121	[HARI]	h a r i
+122	[MINGGU]	m i ng g u
+122	[SENIN]	s e n i n
+122	[SELASA]	s ax l a s a
+122	[RABU]	r a b u
+122	[KAMIS]	k a m i s
+122	[JUMAT]	j u m a t
+122	[SABTU]	s a p t u
+123	[LAGI]	l a g i
+123	[DENGAN]	d ax ng a n
+123	[YANG]	y a ng
+124	[NYA]	ny a
+125	[CUKUP]	c u k u p
+126	[BAGUS]	b a g u s
+126	[JELEK]	j ax l e k
+126	[BURUK]	b u r u k
+126	[BAIK]	b ay i k
+127	[SEMUA]	s ax m u w a
+128	[LULUS]	l u l u s
+128	[MEMPERSIAPKAN]	m ax m p ax r s i y a p k a n
+128	[BELAJAR]	b ax l a j a r
+128	[KERJA]	k ax r j a
+128	[MEMPERBAIKI]	m ax m p ax r b ay i k i
+129	[CARA]	c a r a
+130	[KERAS]	k ax r a s
+131	[ADA]	a d a
+131	[HARUS]	h a r u s
+131	[HANYA]	h a ny a
+132	[DI]	d i
+133	[BAWAH]	b aw a h
+133	[ATAS]	a t a s
+133	[DEPAN]	d ax p a n
+133	[AKHIR]	a k h i r
+134	[YA]	y a
+135	[PERSEN]	p ax r s e n
+136	[HALO]	h a l o
+136	[HAI]	h ay
+137	[TITAN]	t ay t a n
+138	[PINDAH]	p i n d a h
+138	[BELI]	b ax l i
+138	[TUNJUKKAN]	t u n j u k a n
+139	[TIKET]	t i k e t
+139	[SLIDE]	s l ay d
+139	[STATUS]	s t a t u s
+140	[BUKA]	b u k a
+140	[TUTUP]	t u t u p
+141	[HIDUPKAN]	h i d u p k a n
+141	[NYALAKAN]	ny a l a k a n
+141	[MATIKAN]	m a t i k a n
+142	[TERANGKAN]	t ax r a ng k a n
+142	[REDUPKAN]	r ax d u p k a n
+143	[LAMPU]	l a m p u
+144	[TURUNKAN]	t u r u n k a n
+144	[NAIKKAN]	n ay i k a n
+145	[SUHU]	s u h u
+145	[KELEMBAPAN]	k ax l ax m b a p a n
+146	[AC]	a s e
+146	[LAPTOP]	l e p t o p
+146	[VIDEO]	f i d i y o
+146	[MUSIK]	m u s i k
+146	[KIPAS]	k i p a s
+146	[LAYAR]	l ay a r
+146	[HANDPHONE]	h e n f o n
+146	[TV]	t i f i
+146	[KOMPUTER]	k o m p u t e r
+146	[PROYEKTOR]	p r o y e k t o r
+147	[EMAIL]	i m ey l
+147	[BROWSER]	b r aw s ax r
+147	[PINTU]	p i n t u
+148	[BESOK]	b e s o k
+149	[CUACA]	c u w a c a
+150	[BAGAIMANA]	b a g ay m a n a
+150	[GIMANA]	g i m a n a
+151	[INI]	i n i
+152	[HARI]	h a r i
+153	[AKTIFKAN]	a k t i f k a n
+154	[MODE]	m o d ax
+155	[HEMAT]	h e m a t
+156	[ENERGI]	e n ax r g i
+157	[JAM]	j a m
+157	[WAKTU]	w a k t u
+158	[BERAPA]	b ax r a p a
+159	[SEKARANG]	s ax k a r a ng
+160	[PERSENTASE]	p ax r s e n t a s ax
+160	[PERSEN]	p ax r s e n
