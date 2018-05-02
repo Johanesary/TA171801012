@@ -9,7 +9,7 @@ run_all.py untuk menjalankan keseluruhan sistem
 
 folder dengan nama FTP -> menerima file .wav dari raspi
 
-Raspi:
+Raspi 3B:
 
 -berfungsi untuk mendapatkan data suara dari pengguna
 
