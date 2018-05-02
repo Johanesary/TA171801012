@@ -11,5 +11,5 @@ Raspi:
 -berfungsi untuk mendapatkan data suara dari pengguna
 folder dengan nama START
 -menjalankan startadintool.sh -> untuk rekaman
--menjalankan start.sh -> untuk mengirim FTP
+-menjalankan all.py -> untuk mengirim FTP
 
