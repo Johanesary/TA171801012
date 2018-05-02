@@ -7,6 +7,8 @@ sys.path.insert(0, 'D:/FTP/speaker')
 from test4 import test1234
 import wave
 from shutil import copyfile
+import json
+import pika
 
 def check(stamp):
     try:
@@ -17,6 +19,16 @@ def check(stamp):
         return 0
 
 
+"""				
+credentials = pika.PlainCredentials('kondisiruang', 'kondisiruang')
+parameters = pika.ConnectionParameters('167.205.7.226',
+                                       5672,
+                                       '/kondisiruang',
+                                       credentials)
+connection = pika.BlockingConnection(parameters)
+channel = connection.channel()
+channel.queue_declare(queue='Aktuator')
+"""
 sistem = True
 stamp = "Null"
 while (sistem==True):
@@ -44,3 +56,16 @@ while (sistem==True):
             #os.chdir('D:/FTP/speaker')
             #call('python test4.py')
             test1234()
+        f2 = open("speaker.txt","r")
+        nama = f2.read()
+        data = { 'nama':nama,
+        'perintah':perintah
+        }
+        with open('data1.txt', 'w') as outfile:  
+            json.dump(data, outfile)
+        """
+        f3 = open("data1.txt","r")
+        channel.basic_publish(exchange='',
+             		routing_key='kondisiruang',
+                  	body=f3.read())
+        """
