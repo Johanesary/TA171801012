@@ -1,0 +1,2 @@
+STAT: include config: sample.jconf
+
