@@ -31,6 +31,42 @@ channel = connection.channel()
 channel.queue_declare(queue='Aktuator')
 """
 
+def sending() :
+    try :
+        f3 = open("data1.txt","r")
+        channel.basic_publish(exchange='',
+             		routing_key='kondisiruang',
+                  	body=f3.read())
+        return 1
+        except EOFError,e:
+            print("the EOFError is occured")
+            return 0
+        except IOError,e:
+            print("the IOError is occured")
+            return 0
+        except pika.exceptions.AMQPChannelError,e:
+            print("AMQPChannel is Error")
+            return 0
+        except pika.exceptions.AMQPConnectionError,e:
+            print("AMQP Connection is error")
+            return 0
+        except pika.exceptions.AMQPError,e:
+            print("AMQP error is occured")
+            return 0
+        except pika.exceptions.AMQPHeartbeatTimeout,e:
+            print("Connection was dropped as the result of heartbeat timeout")
+            return 0
+        except pika.exceptions.AuthenticationError,e:
+            print("The Authentication is Error")
+            return 0
+        except pika.exceptions.ChannelWrongStateError,e:
+            print("Channel is in wrong state for requested operation")
+            return 0
+        except pika.exceptions.ConsumerCancelled,e:
+            print("Consumer of Pika is cancelled")
+            return 0
+
+
 sistem = True
 stamp = "Null"
 while (sistem==True):
@@ -69,7 +105,7 @@ while (sistem==True):
 		
         f2 = open("speaker.txt","r")
         nama = f2.read() #return nama
-        welcomeText = "SELAMAT DATANG" + nama
+        welcomeText = "SELAMAT DATANG" + nama + "ADA YANG BISA SAYA BANTU"
         call('balcon -n Vocalizer -f' + welcomeText, shell = True)
 		
 		#Run Speaker Localization
@@ -81,7 +117,12 @@ while (sistem==True):
         }
         with open('data1.txt', 'w') as outfile:  
             json.dump(data, outfile)
-        """
+        
+        checkConnection = sending()
+		while (checkConnection == 0):
+            checkConnection = sending()
+		
+		"""
         try :
             f3 = open("data1.txt","r")
             channel.basic_publish(exchange='',
